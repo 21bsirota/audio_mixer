@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "XIAO_footprint") (type "KiCad") (uri "C:/Users/ben/Documents/GitHub/audio_mixer/PCB_design/libraries/New_XIAO_Series_Footprints") (options "") (descr ""))
+)
