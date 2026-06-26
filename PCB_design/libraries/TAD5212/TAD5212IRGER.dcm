@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TAD5212IRGER
+D Stereo Audio 12 b 192k DSP, I2C, I2S, PCM, SPI, TDM 24-VQFN (4x4) , -40C ~ 125C , 1.65V ~ 1.95V, 3V
+K
+F https://www.ti.com/lit/ds/symlink/tad5212.pdf?ts=1773053313089&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTAD5212%252Fpart-details%252FTAD5212IRGER
+$ENDCMP
+#
+#End Doc Library

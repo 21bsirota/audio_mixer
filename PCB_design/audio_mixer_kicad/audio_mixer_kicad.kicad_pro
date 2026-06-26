@@ -541,7 +541,7 @@
       "specctra_dsn": "",
       "vrml": ""
     },
-    "page_layout_descr_file": ""
+    "page_layout_descr_file": "kicad-embed://empty_sheet.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
@@ -611,12 +611,24 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -649,7 +661,7 @@
     "meta": {
       "version": 1
     },
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "kicad-embed://empty_sheet.kicad_wks",
     "plot_directory": "",
     "reuse_designators": true,
     "subpart_first_id": 65,
@@ -661,13 +673,81 @@
         "uuid": "1414c075-e26f-48ed-bedb-d23839dccdcc"
       }
     ],
-    "used_designators": "",
+    "used_designators": "D1-85,L1-6,#PWR1-425,C1-247,U1-29,R1-177,FB1-11,Q1,J1-37,TP1-71",
     "variants": []
   },
   "sheets": [
     [
       "1414c075-e26f-48ed-bedb-d23839dccdcc",
       "audio_mixer_kicad"
+    ],
+    [
+      "68ce5ce6-dccb-4a47-b6b8-7bebf9d99135",
+      "Power"
+    ],
+    [
+      "97929314-a4ae-43d0-907d-b2028c8aaf99",
+      "ADC0"
+    ],
+    [
+      "23285419-b26e-4cdb-a2bb-e6cebda9c05d",
+      "ADC1"
+    ],
+    [
+      "a38b87df-52c2-4000-9a44-d135d23d6f48",
+      "ADC2"
+    ],
+    [
+      "619344fe-335e-403c-8bb3-f2862ed3f5bf",
+      "ADC3"
+    ],
+    [
+      "5a9c39d5-c19c-4592-ad6c-05909f6fa2ad",
+      "ADC4"
+    ],
+    [
+      "5697fa62-fb2c-4f75-92ff-a050b3bc1b75",
+      "ADC5"
+    ],
+    [
+      "0f644b26-ed5e-4c5b-bed7-4e48f361860f",
+      "ADC6"
+    ],
+    [
+      "367b25fc-947c-4939-be32-14c07e41263e",
+      "ADC7"
+    ],
+    [
+      "c9bfd53b-d4ed-4c79-8c11-862bdb52cfd8",
+      "DAC0"
+    ],
+    [
+      "ac2b81bb-bfe7-4050-809f-6c5d13d7b656",
+      "DAC1"
+    ],
+    [
+      "3f32a6c0-accf-436d-a597-4391493ae92d",
+      "LD0"
+    ],
+    [
+      "3dd62eb6-fca0-4529-87d1-810d9c0fe83f",
+      "LD1"
+    ],
+    [
+      "c28f355f-90b7-4ce5-b88c-2195459426e4",
+      "LD2"
+    ],
+    [
+      "3368b757-87f5-4156-a722-e475f69a11ad",
+      "LD3"
+    ],
+    [
+      "1602e6f3-8cd5-46ab-b3e6-c5cca9e1a28b",
+      "Phantom Injector 0"
+    ],
+    [
+      "d9ca3c13-db5d-4696-8949-e85953cd97d7",
+      "Phantom Injector 1"
     ]
   ],
   "text_variables": {},

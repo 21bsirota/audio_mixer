@@ -113,7 +113,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -152,4 +151,15 @@
 		)
 	)
 	(embedded_fonts no)
+	(embedded_files
+		(file
+			(name "empty_sheet.kicad_wks")
+			(type worksheet)
+			(data |KLUv/SD8ZQQAEogaGHDNA0DI0YHeJkZJEFFVxQMowuuE/g+8jIvBxWBT/2vh1FcSt5Ib9cQSzXyk
+				GShwlE35w6OmzkAhcuvJ70v9T6nFnOf7yijZTWfr+9GTcVyz9QnbtBM4MHMASKDR6tc29NRid4nm
+				QRi+vAwgECKB+ykXiwycxMF0oUCrNdXCrgbCyhNsyx1Zmgc=|
+			)
+			(checksum "CCB84E7F9B41B6CB5DD1043021FBC2C0")
+		)
+	)
 )

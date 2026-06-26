@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIC2981_82YWM-TR
+D Latches Hi-Voltage, Hi-Current Source Driver Array
+K
+F http://ww1.microchip.com/downloads/en/devicedoc/mic2981.pdf
+$ENDCMP
+#
+#End Doc Library
