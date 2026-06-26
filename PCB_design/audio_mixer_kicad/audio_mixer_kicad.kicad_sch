@@ -2661,6 +2661,165 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "audio_mixer_symbols:NZ2520SDA"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "Y"
+				(at 0 1.524 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "24.576M"
+				(at 0 -0.254 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://www.ndk.com/images/products/catalog/c_NZ2520SDA_e.pdf"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "Oscillator, Crystal"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "NZ2520SDA_0_0"
+				(pin input line
+					(at -12.7 -2.54 0)
+					(length 2.54)
+					(name "STAND-BY"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 11.43 -5.08 180)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -12.7 -5.08 0)
+					(length 2.54)
+					(name "OUTPUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 11.43 -2.54 180)
+					(length 2.54)
+					(name "Vcc"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "NZ2520SDA_0_1"
+				(rectangle
+					(start -10.16 -1.27)
+					(end 8.89 -6.35)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:+15V"
 			(power global)
 			(pin_numbers
@@ -5305,6 +5464,16 @@
 	)
 	(wire
 		(pts
+			(xy 191.77 137.16) (xy 191.77 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37e47302-f506-4700-8401-33c3bf495326")
+	)
+	(wire
+		(pts
 			(xy 342.9 80.01) (xy 342.9 82.55)
 		)
 		(stroke
@@ -5902,6 +6071,16 @@
 			(type default)
 		)
 		(uuid "53f51331-8f5b-43c0-8d3c-8183a4002a64")
+	)
+	(wire
+		(pts
+			(xy 152.4 138.43) (xy 166.37 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54b43692-92b5-4404-84b6-6569bcf39ddc")
 	)
 	(wire
 		(pts
@@ -6612,6 +6791,16 @@
 			(type default)
 		)
 		(uuid "6e5942cb-5959-4487-8569-c491f79cf620")
+	)
+	(wire
+		(pts
+			(xy 191.77 138.43) (xy 190.5 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e927b71-c9de-4ed1-b63f-9c95b18374df")
 	)
 	(wire
 		(pts
@@ -9866,6 +10055,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 140.97) (xy 166.37 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8665cce-0eea-46e0-a80e-76bb01b84e09")
+	)
+	(wire
+		(pts
 			(xy 292.1 72.39) (xy 292.1 60.96)
 		)
 		(stroke
@@ -10126,6 +10325,16 @@
 	)
 	(wire
 		(pts
+			(xy 191.77 140.97) (xy 191.77 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3c7152b-1171-4046-b6e4-5c9dac90e537")
+	)
+	(wire
+		(pts
 			(xy 0 190.5) (xy 11.43 190.5)
 		)
 		(stroke
@@ -10203,6 +10412,16 @@
 			(type default)
 		)
 		(uuid "f764a20a-d264-431e-9649-ce683dff96bd")
+	)
+	(wire
+		(pts
+			(xy 190.5 140.97) (xy 191.77 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7b03efc-4d52-4d06-9bc5-438351d0518e")
 	)
 	(wire
 		(pts
@@ -10633,6 +10852,16 @@
 			(justify right bottom)
 		)
 		(uuid "0a6a85c2-5caf-40ee-a491-1f3084117f71")
+	)
+	(label "TX"
+		(at 153.67 102.87 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0ad0c5b0-b699-4d4e-bd5d-6d0de7328f4e")
 	)
 	(label "CH26_ADC-"
 		(at 59.69 233.68 180)
@@ -12254,6 +12483,16 @@
 		)
 		(uuid "75c3168c-66e4-4c17-af52-677e30078353")
 	)
+	(label "CLK_STANDBY"
+		(at 191.77 110.49 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "75cd3dd5-7234-45d5-857b-34a0e860621d")
+	)
 	(label "CH5_XLR-"
 		(at -74.93 133.35 180)
 		(effects
@@ -12514,6 +12753,16 @@
 		)
 		(uuid "8d8acefd-1674-4e1a-bc03-f23cce105bbc")
 	)
+	(label "OSC_CLK"
+		(at 152.4 140.97 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8de3b05a-4882-4884-aee1-72535cda7855")
+	)
 	(label "CH7_ADC-"
 		(at 66.04 110.49 0)
 		(effects
@@ -12583,6 +12832,16 @@
 			(justify right bottom)
 		)
 		(uuid "90ba2328-88c3-4fbf-ac6d-632d2917754c")
+	)
+	(label "OSC_CLK"
+		(at 191.77 107.95 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "90c4e592-e146-4847-a27f-14e1c80aa46f")
 	)
 	(label "FSYNC"
 		(at 257.81 74.93 0)
@@ -13083,6 +13342,16 @@
 			(justify right bottom)
 		)
 		(uuid "ab7ab1d4-fc9e-439a-9353-64413c9885ad")
+	)
+	(label "RX"
+		(at 153.67 105.41 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ac41a3d2-1ae0-4af5-9609-370b47fda74c")
 	)
 	(label "CH21_XLR-"
 		(at -35.56 133.35 180)
@@ -13713,6 +13982,16 @@
 			(justify left bottom)
 		)
 		(uuid "dd8adfa2-86b0-4227-b85d-db356e8d4bfd")
+	)
+	(label "CLK_STANDBY"
+		(at 152.4 138.43 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dd8b40f0-38c3-4747-9f29-19a4a1c6b62e")
 	)
 	(label "CH20_XLR-"
 		(at -35.56 115.57 180)
@@ -16489,6 +16768,92 @@
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
 					(reference "#PWR033")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "audio_mixer_symbols:NZ2520SDA")
+		(at 179.07 135.89 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "226959ef-4697-41c7-bb15-0816e85c94b5")
+		(property "Reference" "Y1"
+			(at 178.435 132.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "24.576M"
+			(at 178.435 134.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 179.07 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.ndk.com/images/products/catalog/c_NZ2520SDA_e.pdf"
+			(at 179.07 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 179.07 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "09f69dd0-1764-4fd7-bcd6-98bb23dbf464")
+		)
+		(pin "4"
+			(uuid "91ccaa4d-e0e3-4aa6-9bf1-10f87754dacb")
+		)
+		(pin "2"
+			(uuid "8735eba1-d2a6-47a4-96ee-d36e6a19bc18")
+		)
+		(pin "1"
+			(uuid "36442b0e-f5c1-4f94-a713-1eb7ea054386")
+		)
+		(instances
+			(project "audio_mixer_kicad"
+				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
+					(reference "Y1")
 					(unit 1)
 				)
 			)
@@ -21129,6 +21494,83 @@
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
 					(reference "#PWR0100")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 191.77 142.24 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "63961680-87ba-4dbe-8744-09eafaca6efe")
+		(property "Reference" "#PWR0489"
+			(at 191.77 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 191.77 146.05 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 191.77 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 191.77 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 191.77 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5644baba-0810-48d9-923d-c154764500ca")
+		)
+		(instances
+			(project "audio_mixer_kicad"
+				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
+					(reference "#PWR0489")
 					(unit 1)
 				)
 			)
@@ -28181,6 +28623,83 @@
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
 					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 191.77 137.16 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b62bf85c-c8de-415a-ac5b-05538fb652b0")
+		(property "Reference" "#PWR0490"
+			(at 191.77 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 191.77 133.604 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 191.77 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 191.77 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 191.77 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "79dea02a-aff5-4d84-8c26-dc246d750c28")
+		)
+		(instances
+			(project "audio_mixer_kicad"
+				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
+					(reference "#PWR0490")
 					(unit 1)
 				)
 			)
