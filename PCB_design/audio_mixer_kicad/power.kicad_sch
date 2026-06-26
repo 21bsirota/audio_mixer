@@ -26098,7 +26098,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "004303ba-3632-49b2-9883-a7fbe4167249")
-		(property "Reference" "C38"
+		(property "Reference" "C39"
 			(at 207.01 342.9062 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26162,7 +26162,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C38")
+					(reference "C39")
 					(unit 1)
 				)
 			)
@@ -26180,7 +26180,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "022c2cb0-1bb0-4e2e-bdd6-92d2e0c3c2af")
-		(property "Reference" "#PWR0182"
+		(property "Reference" "#PWR0185"
 			(at 213.36 222.25 0)
 			(hide yes)
 			(show_name no)
@@ -26240,7 +26240,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0182")
+					(reference "#PWR0185")
 					(unit 1)
 				)
 			)
@@ -26373,7 +26373,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04aa91e8-049a-4fba-8d1a-5c7c41289b05")
-		(property "Reference" "#PWR0150"
+		(property "Reference" "#PWR0153"
 			(at 109.22 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -26433,7 +26433,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0150")
+					(reference "#PWR0153")
 					(unit 1)
 				)
 			)
@@ -26451,7 +26451,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "078fe45d-41a5-446c-afc1-d587e1a9d287")
-		(property "Reference" "#PWR0169"
+		(property "Reference" "#PWR0172"
 			(at 173.99 358.14 0)
 			(hide yes)
 			(show_name no)
@@ -26511,7 +26511,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0169")
+					(reference "#PWR0172")
 					(unit 1)
 				)
 			)
@@ -26529,7 +26529,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "09ee3103-d36c-47bb-aa20-4736b821da3a")
-		(property "Reference" "C4"
+		(property "Reference" "C5"
 			(at 59.69 219.7162 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26593,7 +26593,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C4")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -26611,7 +26611,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a933082-f5a4-4f52-a878-7d71047fa9da")
-		(property "Reference" "#PWR0159"
+		(property "Reference" "#PWR0162"
 			(at 129.54 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -26671,7 +26671,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0159")
+					(reference "#PWR0162")
 					(unit 1)
 				)
 			)
@@ -26689,7 +26689,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0e1be1da-e8d0-44b2-9f43-2e3961d6b2b6")
-		(property "Reference" "#PWR0162"
+		(property "Reference" "#PWR0165"
 			(at 144.78 370.84 0)
 			(hide yes)
 			(show_name no)
@@ -26749,7 +26749,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0162")
+					(reference "#PWR0165")
 					(unit 1)
 				)
 			)
@@ -26767,7 +26767,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "12daedaf-5400-4249-83f4-4cd681d3e17a")
-		(property "Reference" "C39"
+		(property "Reference" "C40"
 			(at 215.9 210.8262 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26831,7 +26831,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C39")
+					(reference "C40")
 					(unit 1)
 				)
 			)
@@ -26849,7 +26849,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "137cc527-7ecd-43fc-b543-197f4551056f")
-		(property "Reference" "#PWR0132"
+		(property "Reference" "#PWR0135"
 			(at 64.77 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -26909,7 +26909,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0132")
+					(reference "#PWR0135")
 					(unit 1)
 				)
 			)
@@ -26927,7 +26927,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15f166b9-5dbe-490a-b34e-d78335d3b7c8")
-		(property "Reference" "#PWR0135"
+		(property "Reference" "#PWR0138"
 			(at 69.85 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -26987,7 +26987,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0135")
+					(reference "#PWR0138")
 					(unit 1)
 				)
 			)
@@ -27005,7 +27005,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "16d7d51c-f554-4f55-b418-6c76a553446f")
-		(property "Reference" "R16"
+		(property "Reference" "R18"
 			(at 120.65 328.9299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27069,7 +27069,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "R16")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -27087,7 +27087,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1739dc66-54c0-4cb4-9c7c-76e79c091dc5")
-		(property "Reference" "C11"
+		(property "Reference" "C12"
 			(at 83.82 271.7862 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27151,7 +27151,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C11")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -27251,7 +27251,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b1173a1-034d-4152-84be-242ebeb804a6")
-		(property "Reference" "C7"
+		(property "Reference" "C8"
 			(at 68.58 260.3562 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27315,7 +27315,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C7")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -27333,7 +27333,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1bfb435d-5e31-4d9d-894b-c8b5e23e6920")
-		(property "Reference" "R13"
+		(property "Reference" "R15"
 			(at 119.38 73.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27397,7 +27397,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "R13")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -27415,7 +27415,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1f483467-8048-4e9d-b2f0-7fb04a4c19f7")
-		(property "Reference" "#PWR0138"
+		(property "Reference" "#PWR0141"
 			(at 80.01 340.36 0)
 			(hide yes)
 			(show_name no)
@@ -27475,7 +27475,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0138")
+					(reference "#PWR0141")
 					(unit 1)
 				)
 			)
@@ -27493,7 +27493,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1fadd735-26c8-4232-a742-732b71ff801f")
-		(property "Reference" "#PWR0178"
+		(property "Reference" "#PWR0181"
 			(at 201.93 422.91 0)
 			(hide yes)
 			(show_name no)
@@ -27553,7 +27553,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0178")
+					(reference "#PWR0181")
 					(unit 1)
 				)
 			)
@@ -27571,7 +27571,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20914c6c-8227-4e01-a072-6627daf8e45c")
-		(property "Reference" "#PWR0121"
+		(property "Reference" "#PWR0124"
 			(at 31.75 12.7 0)
 			(hide yes)
 			(show_name no)
@@ -27631,7 +27631,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0121")
+					(reference "#PWR0124")
 					(unit 1)
 				)
 			)
@@ -27731,7 +27731,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "22d25453-5195-4e55-bca6-e03508d25c8b")
-		(property "Reference" "R21"
+		(property "Reference" "R23"
 			(at 163.83 334.0099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27795,7 +27795,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "R21")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -27813,7 +27813,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "26f09f9c-d1c6-4ac1-844a-b473013809e4")
-		(property "Reference" "R29"
+		(property "Reference" "R31"
 			(at 194.31 342.9 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27875,7 +27875,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "R29")
+					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -27892,7 +27892,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2966b1d2-fa50-42a2-ad0c-67fc27206684")
-		(property "Reference" "#PWR0183"
+		(property "Reference" "#PWR0186"
 			(at 214.63 450.85 0)
 			(hide yes)
 			(show_name no)
@@ -27952,7 +27952,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0183")
+					(reference "#PWR0186")
 					(unit 1)
 				)
 			)
@@ -27970,7 +27970,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31a01a7a-88f0-491e-a750-00b566fcf990")
-		(property "Reference" "C20"
+		(property "Reference" "C21"
 			(at 105.4163 332.74 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28032,7 +28032,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C20")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -28051,7 +28051,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "334d0138-b294-4fc1-a064-96814c4c19b1")
-		(property "Reference" "#PWR0144"
+		(property "Reference" "#PWR0147"
 			(at 87.63 471.17 0)
 			(hide yes)
 			(show_name no)
@@ -28111,7 +28111,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0144")
+					(reference "#PWR0147")
 					(unit 1)
 				)
 			)
@@ -28129,7 +28129,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "352485a3-67d9-4e1b-8c5b-39a61b3a7780")
-		(property "Reference" "R28"
+		(property "Reference" "R30"
 			(at 181.61 464.8199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28193,7 +28193,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "R28")
+					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -28211,7 +28211,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35a0e1f6-c622-4f73-9ddb-263d076902f4")
-		(property "Reference" "#PWR0118"
+		(property "Reference" "#PWR0121"
 			(at 8.89 12.7 0)
 			(hide yes)
 			(show_name no)
@@ -28271,7 +28271,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0118")
+					(reference "#PWR0121")
 					(unit 1)
 				)
 			)
@@ -28289,7 +28289,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "361e19a9-0239-4ca4-b69e-7c844ad606a0")
-		(property "Reference" "C19"
+		(property "Reference" "C20"
 			(at 107.95 71.1262 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28353,7 +28353,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C19")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -28371,7 +28371,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3683e878-8a33-4849-bb09-ddbce788cb01")
-		(property "Reference" "R14"
+		(property "Reference" "R16"
 			(at 119.38 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28435,7 +28435,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "R14")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -28453,7 +28453,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "36ee2560-5901-488b-80a8-74851ac9d7c0")
-		(property "Reference" "C32"
+		(property "Reference" "C33"
 			(at 193.04 210.8262 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28517,7 +28517,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C32")
+					(reference "C33")
 					(unit 1)
 				)
 			)
@@ -28535,7 +28535,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3899d194-0767-4c84-aa7b-182fd796c9c2")
-		(property "Reference" "#PWR0177"
+		(property "Reference" "#PWR0180"
 			(at 201.93 340.36 0)
 			(hide yes)
 			(show_name no)
@@ -28595,7 +28595,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0177")
+					(reference "#PWR0180")
 					(unit 1)
 				)
 			)
@@ -28613,7 +28613,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3938c736-2e3c-4ffb-bec4-fdd5e7356308")
-		(property "Reference" "#PWR0173"
+		(property "Reference" "#PWR0176"
 			(at 181.61 358.14 0)
 			(hide yes)
 			(show_name no)
@@ -28673,7 +28673,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0173")
+					(reference "#PWR0176")
 					(unit 1)
 				)
 			)
@@ -28691,7 +28691,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39a1ecda-d45d-4751-86d4-ec7c16bcfb60")
-		(property "Reference" "C36"
+		(property "Reference" "C37"
 			(at 204.47 422.9035 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28755,7 +28755,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C36")
+					(reference "C37")
 					(unit 1)
 				)
 			)
@@ -28773,7 +28773,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ce5fd6f-8b7e-4cf9-9f18-0f82bce45d33")
-		(property "Reference" "C3"
+		(property "Reference" "C4"
 			(at 58.42 168.9162 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28837,7 +28837,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C3")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -28959,7 +28959,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42709bee-0b67-425c-b426-a3542a8c88fd")
-		(property "Reference" "C29"
+		(property "Reference" "C30"
 			(at 184.15 342.8935 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29023,7 +29023,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C29")
+					(reference "C30")
 					(unit 1)
 				)
 			)
@@ -29120,7 +29120,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46b64fef-e1ee-4d31-9c47-4a12a5d1ec8a")
-		(property "Reference" "#PWR0157"
+		(property "Reference" "#PWR0160"
 			(at 127 275.59 0)
 			(hide yes)
 			(show_name no)
@@ -29180,7 +29180,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0157")
+					(reference "#PWR0160")
 					(unit 1)
 				)
 			)
@@ -29359,7 +29359,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "497eb9ee-1c8d-4856-b79c-5f7d35d7013b")
-		(property "Reference" "R10"
+		(property "Reference" "R12"
 			(at 111.76 332.74 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29421,7 +29421,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "R10")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -29439,7 +29439,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4a56b7a3-74fd-4cb0-b446-75382fa5ce6a")
-		(property "Reference" "C25"
+		(property "Reference" "C26"
 			(at 135.89 240.0362 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29503,7 +29503,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C25")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -29521,7 +29521,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4b90ee29-9193-478c-888f-6a00b70f696d")
-		(property "Reference" "C24"
+		(property "Reference" "C25"
 			(at 132.08 71.1262 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29585,7 +29585,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C24")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -29603,7 +29603,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4da17971-fb1b-4beb-ac95-17dda0e06181")
-		(property "Reference" "#PWR0139"
+		(property "Reference" "#PWR0142"
 			(at 81.28 290.83 0)
 			(hide yes)
 			(show_name no)
@@ -29663,7 +29663,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0139")
+					(reference "#PWR0142")
 					(unit 1)
 				)
 			)
@@ -29681,7 +29681,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4e2afb0b-71a4-4acd-b4d8-1b89b46dc1e0")
-		(property "Reference" "R26"
+		(property "Reference" "R28"
 			(at 181.61 430.5299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29745,7 +29745,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "R26")
+					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -29763,7 +29763,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4f2fe364-011a-4dff-ab1a-c73d0706373c")
-		(property "Reference" "C27"
+		(property "Reference" "C28"
 			(at 165.1 356.8635 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29827,7 +29827,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C27")
+					(reference "C28")
 					(unit 1)
 				)
 			)
@@ -29845,7 +29845,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4fded0dc-470d-4d5d-ad18-0da2914c1b4d")
-		(property "Reference" "C5"
+		(property "Reference" "C6"
 			(at 67.31 78.7462 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29909,7 +29909,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C5")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -29927,7 +29927,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "518f075b-01ae-4231-839e-10d1a3806e85")
-		(property "Reference" "R22"
+		(property "Reference" "R24"
 			(at 165.1 350.5199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29991,7 +29991,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "R22")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -30009,7 +30009,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52321fbb-c619-4d32-9d93-8315e7acad1b")
-		(property "Reference" "#PWR0164"
+		(property "Reference" "#PWR0167"
 			(at 161.29 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -30069,7 +30069,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0164")
+					(reference "#PWR0167")
 					(unit 1)
 				)
 			)
@@ -30087,7 +30087,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52aef506-9851-4334-b953-e63df81a54cd")
-		(property "Reference" "R7"
+		(property "Reference" "R9"
 			(at 59.69 253.9999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30151,7 +30151,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "R7")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -30169,7 +30169,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "535abc28-a3b1-4acc-9632-d8a3ae6ec565")
-		(property "Reference" "C30"
+		(property "Reference" "C31"
 			(at 191.77 422.9035 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30233,7 +30233,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C30")
+					(reference "C31")
 					(unit 1)
 				)
 			)
@@ -30251,7 +30251,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53775fb6-d84b-4fd3-8fce-ebd71008d089")
-		(property "Reference" "R15"
+		(property "Reference" "R17"
 			(at 120.65 322.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30315,7 +30315,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "R15")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -30333,7 +30333,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5432fe29-9deb-471e-96bd-e5792c2ace22")
-		(property "Reference" "R19"
+		(property "Reference" "R21"
 			(at 137.16 231.14 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30395,7 +30395,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "R19")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -30413,7 +30413,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5576ec85-7818-436d-b849-1321d89888c5")
-		(property "Reference" "C23"
+		(property "Reference" "C24"
 			(at 129.54 119.3862 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30477,7 +30477,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C23")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -30495,7 +30495,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "55a55ae9-77f6-4e25-b439-9c1cadc2762e")
-		(property "Reference" "C12"
+		(property "Reference" "C13"
 			(at 90.17 425.4435 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30559,7 +30559,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C12")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -30577,7 +30577,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "586c3de7-4f9d-48ea-bd70-a16cd46ecda4")
-		(property "Reference" "C28"
+		(property "Reference" "C29"
 			(at 166.37 219.7162 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30641,7 +30641,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C28")
+					(reference "C29")
 					(unit 1)
 				)
 			)
@@ -30659,7 +30659,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5a2ee145-e08f-492a-a875-009a8de1a794")
-		(property "Reference" "C26"
+		(property "Reference" "C27"
 			(at 143.51 71.1262 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30723,7 +30723,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C26")
+					(reference "C27")
 					(unit 1)
 				)
 			)
@@ -30742,7 +30742,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5aa55d09-88c2-48b9-86a9-5bcdb755f639")
-		(property "Reference" "#PWR0167"
+		(property "Reference" "#PWR0170"
 			(at 165.1 435.61 0)
 			(hide yes)
 			(show_name no)
@@ -30802,7 +30802,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0167")
+					(reference "#PWR0170")
 					(unit 1)
 				)
 			)
@@ -30820,7 +30820,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5bfc6b05-8f1c-4788-af87-c136f22008e7")
-		(property "Reference" "R18"
+		(property "Reference" "R20"
 			(at 129.54 231.14 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30882,7 +30882,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "R18")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -30900,7 +30900,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c060795-6719-42ce-a48d-dd1091e94e79")
-		(property "Reference" "R11"
+		(property "Reference" "R13"
 			(at 118.11 119.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30964,7 +30964,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "R11")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -30982,7 +30982,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5d163538-4ad6-48c5-8853-c14ca56528dc")
-		(property "Reference" "#PWR0155"
+		(property "Reference" "#PWR0158"
 			(at 127 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -31042,7 +31042,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0155")
+					(reference "#PWR0158")
 					(unit 1)
 				)
 			)
@@ -31061,7 +31061,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5dddaa14-b5f8-4eea-97c8-41f04d3cac91")
-		(property "Reference" "#PWR0180"
+		(property "Reference" "#PWR0183"
 			(at 201.93 469.9 0)
 			(hide yes)
 			(show_name no)
@@ -31121,7 +31121,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0180")
+					(reference "#PWR0183")
 					(unit 1)
 				)
 			)
@@ -31139,7 +31139,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "61cdbffe-a6d8-4ffe-97af-4805f809a31d")
-		(property "Reference" "#PWR0153"
+		(property "Reference" "#PWR0156"
 			(at 116.84 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -31199,7 +31199,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0153")
+					(reference "#PWR0156")
 					(unit 1)
 				)
 			)
@@ -31217,7 +31217,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "62c9ae7e-28ad-4d38-bed3-16242b3a35e4")
-		(property "Reference" "C8"
+		(property "Reference" "C9"
 			(at 71.12 219.7162 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31281,7 +31281,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C8")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -31299,7 +31299,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "62d86375-d471-41fb-9bc8-7bf223bf7a31")
-		(property "Reference" "#PWR0129"
+		(property "Reference" "#PWR0132"
 			(at 57.15 265.43 0)
 			(hide yes)
 			(show_name no)
@@ -31359,7 +31359,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0129")
+					(reference "#PWR0132")
 					(unit 1)
 				)
 			)
@@ -31377,7 +31377,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64a48cf6-531d-47a3-9829-de62d0105216")
-		(property "Reference" "C34"
+		(property "Reference" "C35"
 			(at 203.2 210.8262 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31441,7 +31441,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C34")
+					(reference "C35")
 					(unit 1)
 				)
 			)
@@ -31459,7 +31459,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65646af1-47b5-41e6-8126-9f2eecf10676")
-		(property "Reference" "#PWR0165"
+		(property "Reference" "#PWR0168"
 			(at 162.56 368.3 0)
 			(hide yes)
 			(show_name no)
@@ -31519,7 +31519,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0165")
+					(reference "#PWR0168")
 					(unit 1)
 				)
 			)
@@ -31538,7 +31538,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b2d4550-aca5-4095-88f2-3e378b57336b")
-		(property "Reference" "#PWR0145"
+		(property "Reference" "#PWR0148"
 			(at 96.52 444.5 0)
 			(hide yes)
 			(show_name no)
@@ -31598,7 +31598,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0145")
+					(reference "#PWR0148")
 					(unit 1)
 				)
 			)
@@ -31617,7 +31617,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6d4dd3e5-2486-4764-a43c-56cadd4e2207")
-		(property "Reference" "#PWR0171"
+		(property "Reference" "#PWR0174"
 			(at 179.07 441.96 0)
 			(hide yes)
 			(show_name no)
@@ -31677,7 +31677,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0171")
+					(reference "#PWR0174")
 					(unit 1)
 				)
 			)
@@ -31695,7 +31695,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ef99bf9-e379-42ab-bc11-2ae750da922d")
-		(property "Reference" "#PWR0161"
+		(property "Reference" "#PWR0164"
 			(at 140.97 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -31755,7 +31755,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0161")
+					(reference "#PWR0164")
 					(unit 1)
 				)
 			)
@@ -31853,7 +31853,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "705fea06-79bd-4270-b3dd-76d6c412d24e")
-		(property "Reference" "C37"
+		(property "Reference" "C38"
 			(at 204.47 457.1935 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31917,7 +31917,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C37")
+					(reference "C38")
 					(unit 1)
 				)
 			)
@@ -32096,7 +32096,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7944f05b-831b-4b70-bce2-dfedec25557f")
-		(property "Reference" "#PWR0147"
+		(property "Reference" "#PWR0150"
 			(at 97.79 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -32156,7 +32156,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0147")
+					(reference "#PWR0150")
 					(unit 1)
 				)
 			)
@@ -32174,7 +32174,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "794a84ae-0956-4793-bdd6-3a8dac1f61d0")
-		(property "Reference" "#PWR0163"
+		(property "Reference" "#PWR0166"
 			(at 147.32 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -32234,7 +32234,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0163")
+					(reference "#PWR0166")
 					(unit 1)
 				)
 			)
@@ -32252,7 +32252,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7a7103e0-b3a7-4c40-bfd5-1048b0b20333")
-		(property "Reference" "C1"
+		(property "Reference" "C2"
 			(at 41.91 168.9162 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32316,7 +32316,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C1")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -32334,7 +32334,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7ba0cfb9-65f6-470c-87ea-7b5fe7b6d395")
-		(property "Reference" "#PWR0130"
+		(property "Reference" "#PWR0133"
 			(at 63.5 12.7 0)
 			(hide yes)
 			(show_name no)
@@ -32394,7 +32394,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0130")
+					(reference "#PWR0133")
 					(unit 1)
 				)
 			)
@@ -32412,7 +32412,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7bbce57b-f5bc-454f-a900-6d41c5b84510")
-		(property "Reference" "#PWR0176"
+		(property "Reference" "#PWR0179"
 			(at 200.66 222.25 0)
 			(hide yes)
 			(show_name no)
@@ -32472,7 +32472,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0176")
+					(reference "#PWR0179")
 					(unit 1)
 				)
 			)
@@ -32490,7 +32490,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c941b76-788d-415f-a785-68a4d33aa186")
-		(property "Reference" "#PWR0170"
+		(property "Reference" "#PWR0173"
 			(at 177.8 271.78 0)
 			(hide yes)
 			(show_name no)
@@ -32550,7 +32550,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0170")
+					(reference "#PWR0173")
 					(unit 1)
 				)
 			)
@@ -32568,7 +32568,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d94e582-50ff-4eeb-b551-1ed1afdfda34")
-		(property "Reference" "C14"
+		(property "Reference" "C15"
 			(at 88.9063 308.61 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32630,7 +32630,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C14")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -32742,7 +32742,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f354396-9e63-4e98-902c-25db915ec467")
-		(property "Reference" "C10"
+		(property "Reference" "C11"
 			(at 82.55 328.9362 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32806,7 +32806,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C10")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -32824,7 +32824,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8057e35a-97e9-4f71-a94d-9f16408ec6f1")
-		(property "Reference" "C31"
+		(property "Reference" "C32"
 			(at 191.77 457.1935 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32888,7 +32888,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C31")
+					(reference "C32")
 					(unit 1)
 				)
 			)
@@ -32906,7 +32906,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "815a921f-9c67-4ea6-af01-5efa823d6bc9")
-		(property "Reference" "#PWR0184"
+		(property "Reference" "#PWR0187"
 			(at 218.44 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -32966,7 +32966,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0184")
+					(reference "#PWR0187")
 					(unit 1)
 				)
 			)
@@ -32984,7 +32984,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "83dcad29-915e-41e5-9426-3c8908582165")
-		(property "Reference" "C21"
+		(property "Reference" "C22"
 			(at 110.49 170.1862 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33048,7 +33048,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C21")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -33066,7 +33066,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "83df64fe-3cb9-439e-9631-4655de951bcc")
-		(property "Reference" "C9"
+		(property "Reference" "C10"
 			(at 73.66 271.7862 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33130,7 +33130,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C9")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -33149,7 +33149,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "83f41992-e0c8-478c-aedd-1b44721da732")
-		(property "Reference" "#PWR0172"
+		(property "Reference" "#PWR0175"
 			(at 179.07 476.25 0)
 			(hide yes)
 			(show_name no)
@@ -33209,7 +33209,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0172")
+					(reference "#PWR0175")
 					(unit 1)
 				)
 			)
@@ -33227,7 +33227,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "848d8056-7355-447b-8345-02c656e666e4")
-		(property "Reference" "#PWR0156"
+		(property "Reference" "#PWR0159"
 			(at 127 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -33287,7 +33287,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0156")
+					(reference "#PWR0159")
 					(unit 1)
 				)
 			)
@@ -33306,7 +33306,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "84ad816d-23ff-455b-ba42-c34a0f095d5e")
-		(property "Reference" "#PWR0141"
+		(property "Reference" "#PWR0144"
 			(at 82.55 462.28 0)
 			(hide yes)
 			(show_name no)
@@ -33366,7 +33366,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0141")
+					(reference "#PWR0144")
 					(unit 1)
 				)
 			)
@@ -33384,7 +33384,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a27f4af-63bb-4f37-9c79-0ef5e953c0ce")
-		(property "Reference" "R24"
+		(property "Reference" "R26"
 			(at 180.34 260.3499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33448,7 +33448,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "R24")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -33545,7 +33545,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "91b97d75-1117-4fb4-bed6-80b15c149810")
-		(property "Reference" "R23"
+		(property "Reference" "R25"
 			(at 180.34 210.8199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33609,7 +33609,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "R23")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -33628,7 +33628,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "97a5e62c-89cf-4933-961a-f2793d9d0907")
-		(property "Reference" "#PWR0168"
+		(property "Reference" "#PWR0171"
 			(at 165.1 469.9 0)
 			(hide yes)
 			(show_name no)
@@ -33688,7 +33688,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0168")
+					(reference "#PWR0171")
 					(unit 1)
 				)
 			)
@@ -33706,7 +33706,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "990acbd7-ea70-4758-9c04-aea92a2d5972")
-		(property "Reference" "#PWR0142"
+		(property "Reference" "#PWR0145"
 			(at 85.09 325.12 0)
 			(hide yes)
 			(show_name no)
@@ -33766,7 +33766,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0142")
+					(reference "#PWR0145")
 					(unit 1)
 				)
 			)
@@ -33784,7 +33784,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9a8adc71-4fea-4baf-b633-e6f30f98d42b")
-		(property "Reference" "#PWR0128"
+		(property "Reference" "#PWR0131"
 			(at 57.15 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -33844,7 +33844,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0128")
+					(reference "#PWR0131")
 					(unit 1)
 				)
 			)
@@ -33862,7 +33862,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9bc24da9-0b2c-4e28-ab67-7687be0b482f")
-		(property "Reference" "R17"
+		(property "Reference" "R19"
 			(at 120.65 344.1699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33926,7 +33926,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "R17")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -33944,7 +33944,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9f03110c-1cbc-4e9e-8f14-88286c205db8")
-		(property "Reference" "C18"
+		(property "Reference" "C19"
 			(at 100.33 170.1862 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34008,7 +34008,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C18")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -34361,7 +34361,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a12c78ac-b4f5-487b-a584-884024719ea6")
-		(property "Reference" "#PWR0119"
+		(property "Reference" "#PWR0122"
 			(at 12.7 20.32 0)
 			(hide yes)
 			(show_name no)
@@ -34421,7 +34421,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0119")
+					(reference "#PWR0122")
 					(unit 1)
 				)
 			)
@@ -34439,7 +34439,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a7abbda2-d723-44b5-928f-d3513b933c78")
-		(property "Reference" "C41"
+		(property "Reference" "C42"
 			(at 219.71 342.9062 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34503,7 +34503,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C41")
+					(reference "C42")
 					(unit 1)
 				)
 			)
@@ -34521,7 +34521,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a964de7c-30dc-4613-a6df-caac11a11260")
-		(property "Reference" "#PWR0134"
+		(property "Reference" "#PWR0137"
 			(at 66.04 271.78 0)
 			(hide yes)
 			(show_name no)
@@ -34581,7 +34581,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0134")
+					(reference "#PWR0137")
 					(unit 1)
 				)
 			)
@@ -34599,7 +34599,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a9bd08ba-3dfb-4468-90c9-ee5b46e30f83")
-		(property "Reference" "C17"
+		(property "Reference" "C18"
 			(at 99.06 467.3535 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34663,7 +34663,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C17")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -34681,7 +34681,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ab9d34b0-4227-4e0a-b671-dd5dfcfb7a25")
-		(property "Reference" "R8"
+		(property "Reference" "R10"
 			(at 83.82 278.1299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34745,7 +34745,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "R8")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -34763,7 +34763,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aba82a14-c4e6-4cf6-928c-2ea3e4119e64")
-		(property "Reference" "#PWR0152"
+		(property "Reference" "#PWR0155"
 			(at 116.84 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -34823,7 +34823,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0152")
+					(reference "#PWR0155")
 					(unit 1)
 				)
 			)
@@ -34841,7 +34841,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "adf5faed-d1ec-49d3-8fea-f21e49fda8c6")
-		(property "Reference" "#PWR0158"
+		(property "Reference" "#PWR0161"
 			(at 127 370.84 0)
 			(hide yes)
 			(show_name no)
@@ -34901,7 +34901,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0158")
+					(reference "#PWR0161")
 					(unit 1)
 				)
 			)
@@ -34919,7 +34919,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af0567b3-a3e7-45c1-846f-fd351c0695e8")
-		(property "Reference" "#PWR0154"
+		(property "Reference" "#PWR0157"
 			(at 118.11 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -34979,7 +34979,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0154")
+					(reference "#PWR0157")
 					(unit 1)
 				)
 			)
@@ -34997,7 +34997,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b065de39-c0c2-45de-b982-42b82fbff817")
-		(property "Reference" "C40"
+		(property "Reference" "C41"
 			(at 218.44 328.9362 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35061,7 +35061,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C40")
+					(reference "C41")
 					(unit 1)
 				)
 			)
@@ -35079,7 +35079,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b20b2b57-a4d3-4892-a23a-f4a4769ef6b9")
-		(property "Reference" "R9"
+		(property "Reference" "R11"
 			(at 95.25 308.61 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35141,7 +35141,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "R9")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -35252,7 +35252,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b788e4e5-a36b-4da7-aab8-dbfe2585de3b")
-		(property "Reference" "C15"
+		(property "Reference" "C16"
 			(at 91.44 321.818 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35314,7 +35314,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C15")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -35332,7 +35332,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b860c2a3-c722-4265-901b-448cdd146186")
-		(property "Reference" "R25"
+		(property "Reference" "R27"
 			(at 181.61 422.9099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35396,7 +35396,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "R25")
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -35414,7 +35414,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b91d74a5-30bd-4847-909f-8fb837a4dd5b")
-		(property "Reference" "#PWR0133"
+		(property "Reference" "#PWR0136"
 			(at 64.77 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -35474,7 +35474,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0133")
+					(reference "#PWR0136")
 					(unit 1)
 				)
 			)
@@ -35492,7 +35492,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b9b3b08d-965d-48d5-82a6-b6354540d745")
-		(property "Reference" "#PWR0149"
+		(property "Reference" "#PWR0152"
 			(at 101.6 349.25 0)
 			(hide yes)
 			(show_name no)
@@ -35552,7 +35552,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0149")
+					(reference "#PWR0152")
 					(unit 1)
 				)
 			)
@@ -35570,7 +35570,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ba57cf93-928c-4130-9e79-f0e8124353e0")
-		(property "Reference" "C35"
+		(property "Reference" "C36"
 			(at 204.47 328.9362 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35634,7 +35634,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C35")
+					(reference "C36")
 					(unit 1)
 				)
 			)
@@ -35652,7 +35652,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bb30f0c6-51f1-4448-81bd-341d4cf15535")
-		(property "Reference" "C16"
+		(property "Reference" "C17"
 			(at 99.06 433.0635 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35716,7 +35716,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C16")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -35734,7 +35734,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bea448b0-3a8a-4eae-8b09-a1c85507018f")
-		(property "Reference" "C33"
+		(property "Reference" "C34"
 			(at 194.31 328.9235 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35798,7 +35798,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C33")
+					(reference "C34")
 					(unit 1)
 				)
 			)
@@ -35817,7 +35817,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c16e1fee-e259-4674-ba0a-e412fcaa61e2")
-		(property "Reference" "#PWR0140"
+		(property "Reference" "#PWR0143"
 			(at 82.55 427.99 0)
 			(hide yes)
 			(show_name no)
@@ -35877,7 +35877,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0140")
+					(reference "#PWR0143")
 					(unit 1)
 				)
 			)
@@ -35895,7 +35895,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5f644cd-741a-4939-a82f-d3c35759a8b4")
-		(property "Reference" "#PWR0125"
+		(property "Reference" "#PWR0128"
 			(at 54.61 12.7 0)
 			(hide yes)
 			(show_name no)
@@ -35955,7 +35955,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0125")
+					(reference "#PWR0128")
 					(unit 1)
 				)
 			)
@@ -35973,7 +35973,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d1bbcd6f-c386-4ce9-9240-e22aca58f4ca")
-		(property "Reference" "#PWR0124"
+		(property "Reference" "#PWR0127"
 			(at 43.18 12.7 0)
 			(hide yes)
 			(show_name no)
@@ -36033,7 +36033,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0124")
+					(reference "#PWR0127")
 					(unit 1)
 				)
 			)
@@ -36051,7 +36051,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d24b7257-382a-4fc6-8f08-f1d874ae84d6")
-		(property "Reference" "#PWR0123"
+		(property "Reference" "#PWR0126"
 			(at 39.37 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -36111,7 +36111,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0123")
+					(reference "#PWR0126")
 					(unit 1)
 				)
 			)
@@ -36129,7 +36129,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4adc796-6f92-4a47-949b-2b1f1a68c453")
-		(property "Reference" "R20"
+		(property "Reference" "R22"
 			(at 149.86 240.0299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36193,7 +36193,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "R20")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -36211,7 +36211,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d653dcc2-09c5-4e25-9282-d6beadd5d5ed")
-		(property "Reference" "C13"
+		(property "Reference" "C14"
 			(at 90.17 459.7335 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36275,7 +36275,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C13")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -36293,7 +36293,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d772537f-1583-44ec-b0bb-ad4bced0f01a")
-		(property "Reference" "#PWR0181"
+		(property "Reference" "#PWR0184"
 			(at 204.47 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -36353,7 +36353,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0181")
+					(reference "#PWR0184")
 					(unit 1)
 				)
 			)
@@ -36371,7 +36371,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "daa20327-91fe-4048-9a6f-505a3ee29b5a")
-		(property "Reference" "R27"
+		(property "Reference" "R29"
 			(at 181.61 457.1999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36435,7 +36435,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "R27")
+					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -36453,7 +36453,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db27fe39-ce58-467c-a218-2fa99de10c76")
-		(property "Reference" "#PWR0151"
+		(property "Reference" "#PWR0154"
 			(at 115.57 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -36513,7 +36513,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0151")
+					(reference "#PWR0154")
 					(unit 1)
 				)
 			)
@@ -36531,7 +36531,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "de6cdd0e-28c5-4073-afd4-bd9790146154")
-		(property "Reference" "#PWR0166"
+		(property "Reference" "#PWR0169"
 			(at 163.83 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -36591,7 +36591,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0166")
+					(reference "#PWR0169")
 					(unit 1)
 				)
 			)
@@ -36608,7 +36608,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e0648c32-43dc-49c1-ac46-365625b35cda")
-		(property "Reference" "C22"
+		(property "Reference" "C23"
 			(at 107.95 345.948 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36670,7 +36670,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C22")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -36688,7 +36688,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e0e32315-7ad6-4f55-98f4-877faf042d32")
-		(property "Reference" "#PWR0131"
+		(property "Reference" "#PWR0134"
 			(at 64.77 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -36748,7 +36748,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0131")
+					(reference "#PWR0134")
 					(unit 1)
 				)
 			)
@@ -36766,7 +36766,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e17b9ef7-f5fb-45e8-ac00-4a8937f066ca")
-		(property "Reference" "#PWR0174"
+		(property "Reference" "#PWR0177"
 			(at 190.5 222.25 0)
 			(hide yes)
 			(show_name no)
@@ -36826,7 +36826,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0174")
+					(reference "#PWR0177")
 					(unit 1)
 				)
 			)
@@ -36845,7 +36845,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4dbf6aa-7717-41d0-b12d-7fbeee2e79f2")
-		(property "Reference" "#PWR0179"
+		(property "Reference" "#PWR0182"
 			(at 201.93 435.61 0)
 			(hide yes)
 			(show_name no)
@@ -36905,7 +36905,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0179")
+					(reference "#PWR0182")
 					(unit 1)
 				)
 			)
@@ -37005,7 +37005,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e61f8f64-004e-4241-926b-62e7561d5e4e")
-		(property "Reference" "#PWR0136"
+		(property "Reference" "#PWR0139"
 			(at 74.93 10.16 0)
 			(hide yes)
 			(show_name no)
@@ -37066,7 +37066,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0136")
+					(reference "#PWR0139")
 					(unit 1)
 				)
 			)
@@ -37084,7 +37084,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e8c41828-5086-4ecd-9c9d-d31a5abb0ef4")
-		(property "Reference" "#PWR0137"
+		(property "Reference" "#PWR0140"
 			(at 80.01 328.93 0)
 			(hide yes)
 			(show_name no)
@@ -37144,7 +37144,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0137")
+					(reference "#PWR0140")
 					(unit 1)
 				)
 			)
@@ -37253,7 +37253,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea63e408-1ee4-44e7-8916-325ada5e8ccd")
-		(property "Reference" "#PWR0175"
+		(property "Reference" "#PWR0178"
 			(at 191.77 340.36 0)
 			(hide yes)
 			(show_name no)
@@ -37313,7 +37313,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0175")
+					(reference "#PWR0178")
 					(unit 1)
 				)
 			)
@@ -37332,7 +37332,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ecb6790e-de5c-4672-a58f-7b7c418b898b")
-		(property "Reference" "#PWR0146"
+		(property "Reference" "#PWR0149"
 			(at 96.52 478.79 0)
 			(hide yes)
 			(show_name no)
@@ -37392,7 +37392,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0146")
+					(reference "#PWR0149")
 					(unit 1)
 				)
 			)
@@ -37410,7 +37410,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f1069213-2e3d-4844-ac7e-5cf3c4701931")
-		(property "Reference" "#PWR0122"
+		(property "Reference" "#PWR0125"
 			(at 39.37 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -37470,7 +37470,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0122")
+					(reference "#PWR0125")
 					(unit 1)
 				)
 			)
@@ -37488,7 +37488,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f320a12d-b6cc-4d3b-a05e-0f60f4d06bea")
-		(property "Reference" "#PWR0127"
+		(property "Reference" "#PWR0130"
 			(at 57.15 217.17 0)
 			(hide yes)
 			(show_name no)
@@ -37548,7 +37548,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0127")
+					(reference "#PWR0130")
 					(unit 1)
 				)
 			)
@@ -37566,7 +37566,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f3a813a2-e297-410d-a14c-9b2c4d48974d")
-		(property "Reference" "#PWR0160"
+		(property "Reference" "#PWR0163"
 			(at 133.35 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -37626,7 +37626,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0160")
+					(reference "#PWR0163")
 					(unit 1)
 				)
 			)
@@ -37644,7 +37644,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f41f015f-b038-4f5c-93e7-f1c0dce56d10")
-		(property "Reference" "R12"
+		(property "Reference" "R14"
 			(at 118.11 130.8099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37708,7 +37708,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "R12")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -37727,7 +37727,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5ec68d7-d6e9-481d-affc-7abcc1a495a0")
-		(property "Reference" "#PWR0143"
+		(property "Reference" "#PWR0146"
 			(at 87.63 436.88 0)
 			(hide yes)
 			(show_name no)
@@ -37787,7 +37787,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0143")
+					(reference "#PWR0146")
 					(unit 1)
 				)
 			)
@@ -37805,7 +37805,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f64bd875-3e8e-47a9-9dd4-1564f80ad488")
-		(property "Reference" "#PWR0126"
+		(property "Reference" "#PWR0129"
 			(at 55.88 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -37865,7 +37865,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0126")
+					(reference "#PWR0129")
 					(unit 1)
 				)
 			)
@@ -37883,7 +37883,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "faac35db-8b11-4069-b761-60b993c5add9")
-		(property "Reference" "C2"
+		(property "Reference" "C3"
 			(at 57.15 78.7462 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37947,7 +37947,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C2")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -37965,7 +37965,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb4c350d-f24b-4a01-a08d-4e874794aea8")
-		(property "Reference" "#PWR0148"
+		(property "Reference" "#PWR0151"
 			(at 97.79 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -38025,7 +38025,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0148")
+					(reference "#PWR0151")
 					(unit 1)
 				)
 			)
@@ -38043,7 +38043,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe5a1624-ec3e-461f-bcfc-39903d97baa7")
-		(property "Reference" "#PWR0120"
+		(property "Reference" "#PWR0123"
 			(at 22.86 12.7 0)
 			(hide yes)
 			(show_name no)
@@ -38103,7 +38103,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "#PWR0120")
+					(reference "#PWR0123")
 					(unit 1)
 				)
 			)
@@ -38121,7 +38121,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe622199-6701-4041-9212-a083165aff09")
-		(property "Reference" "C6"
+		(property "Reference" "C7"
 			(at 67.31 125.7362 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38185,7 +38185,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/68ce5ce6-dccb-4a47-b6b8-7bebf9d99135"
-					(reference "C6")
+					(reference "C7")
 					(unit 1)
 				)
 			)

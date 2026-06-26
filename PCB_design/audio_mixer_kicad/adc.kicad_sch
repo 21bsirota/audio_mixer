@@ -4329,7 +4329,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "12135337-9229-4606-b9e1-156aa03213c0")
-		(property "Reference" "C264"
+		(property "Reference" "C53"
 			(at 121.92 107.9562 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4393,35 +4393,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "C276")
+					(reference "C155")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "C266")
+					(reference "C70")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "C278")
+					(reference "C172")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "C274")
+					(reference "C138")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "C272")
+					(reference "C121")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "C270")
+					(reference "C104")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "C264")
+					(reference "C53")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "C268")
+					(reference "C87")
 					(unit 1)
 				)
 			)
@@ -4438,7 +4438,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "12e2ae8a-ac27-418e-8811-bc55cf1234ff")
-		(property "Reference" "C44"
+		(property "Reference" "C51"
 			(at 110.236 76.454 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4500,35 +4500,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "C98")
+					(reference "C153")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "C53")
+					(reference "C68")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "C107")
+					(reference "C170")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "C89")
+					(reference "C136")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "C80")
+					(reference "C119")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "C71")
+					(reference "C102")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "C44")
+					(reference "C51")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "C62")
+					(reference "C85")
 					(unit 1)
 				)
 			)
@@ -4546,7 +4546,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "132c31f2-26d0-4e1a-a0ef-4fadd3d07f3c")
-		(property "Reference" "#PWR0425"
+		(property "Reference" "#PWR0198"
 			(at 129.54 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -4606,35 +4606,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "#PWR0431")
+					(reference "#PWR0312")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "#PWR0426")
+					(reference "#PWR0217")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "#PWR0432")
+					(reference "#PWR0331")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "#PWR0430")
+					(reference "#PWR0293")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "#PWR0429")
+					(reference "#PWR0274")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "#PWR0428")
+					(reference "#PWR0255")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "#PWR0425")
+					(reference "#PWR0198")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "#PWR0427")
+					(reference "#PWR0236")
 					(unit 1)
 				)
 			)
@@ -4652,7 +4652,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1503bc99-141b-4c59-adfe-6cd1665ab681")
-		(property "Reference" "#PWR0195"
+		(property "Reference" "#PWR0206"
 			(at 199.39 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -4712,35 +4712,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "#PWR0261")
+					(reference "#PWR0320")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "#PWR0206")
+					(reference "#PWR0225")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "#PWR0272")
+					(reference "#PWR0339")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "#PWR0250")
+					(reference "#PWR0301")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "#PWR0239")
+					(reference "#PWR0282")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "#PWR0228")
+					(reference "#PWR0263")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "#PWR0195")
+					(reference "#PWR0206")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "#PWR0217")
+					(reference "#PWR0244")
 					(unit 1)
 				)
 			)
@@ -4758,7 +4758,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "155283a6-c611-41db-b01c-12781ce57183")
-		(property "Reference" "#PWR0481"
+		(property "Reference" "#PWR0188"
 			(at 58.42 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -4818,35 +4818,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "#PWR0487")
+					(reference "#PWR0302")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "#PWR0482")
+					(reference "#PWR0207")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "#PWR0488")
+					(reference "#PWR0321")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "#PWR0486")
+					(reference "#PWR0283")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "#PWR0485")
+					(reference "#PWR0264")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "#PWR0484")
+					(reference "#PWR0245")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "#PWR0481")
+					(reference "#PWR0188")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "#PWR0483")
+					(reference "#PWR0226")
 					(unit 1)
 				)
 			)
@@ -4864,7 +4864,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "22208fdb-7910-49b9-9386-960bacae01a4")
-		(property "Reference" "#PWR0441"
+		(property "Reference" "#PWR0195"
 			(at 109.22 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -4924,35 +4924,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "#PWR0447")
+					(reference "#PWR0309")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "#PWR0442")
+					(reference "#PWR0214")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "#PWR0448")
+					(reference "#PWR0328")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "#PWR0446")
+					(reference "#PWR0290")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "#PWR0445")
+					(reference "#PWR0271")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "#PWR0444")
+					(reference "#PWR0252")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "#PWR0441")
+					(reference "#PWR0195")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "#PWR0443")
+					(reference "#PWR0233")
 					(unit 1)
 				)
 			)
@@ -4969,7 +4969,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "377177af-02ee-4aaf-84b6-fdbc487febd4")
-		(property "Reference" "C42"
+		(property "Reference" "C48"
 			(at 98.298 72.136 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5031,35 +5031,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "C96")
+					(reference "C150")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "C51")
+					(reference "C65")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "C105")
+					(reference "C167")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "C87")
+					(reference "C133")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "C78")
+					(reference "C116")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "C69")
+					(reference "C99")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "C42")
+					(reference "C48")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "C60")
+					(reference "C82")
 					(unit 1)
 				)
 			)
@@ -5076,7 +5076,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3d0e8ef3-8948-482e-be79-77e332c79db1")
-		(property "Reference" "C47"
+		(property "Reference" "C56"
 			(at 195.58 62.992 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5138,35 +5138,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "C101")
+					(reference "C158")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "C56")
+					(reference "C73")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "C110")
+					(reference "C175")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "C92")
+					(reference "C141")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "C83")
+					(reference "C124")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "C74")
+					(reference "C107")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "C47")
+					(reference "C56")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "C65")
+					(reference "C90")
 					(unit 1)
 				)
 			)
@@ -5184,7 +5184,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3d2a50ad-f100-49a2-b12b-43419069b893")
-		(property "Reference" "#PWR0189"
+		(property "Reference" "#PWR0200"
 			(at 154.94 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -5244,35 +5244,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "#PWR0255")
+					(reference "#PWR0314")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "#PWR0200")
+					(reference "#PWR0219")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "#PWR0266")
+					(reference "#PWR0333")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "#PWR0244")
+					(reference "#PWR0295")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "#PWR0233")
+					(reference "#PWR0276")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "#PWR0222")
+					(reference "#PWR0257")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "#PWR0189")
+					(reference "#PWR0200")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "#PWR0211")
+					(reference "#PWR0238")
 					(unit 1)
 				)
 			)
@@ -5289,7 +5289,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "42c9fe5c-b53e-4807-a39b-26a0d1dbd64c")
-		(property "Reference" "#PWR0185"
+		(property "Reference" "#PWR0192"
 			(at 96.52 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -5349,35 +5349,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "#PWR0251")
+					(reference "#PWR0306")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "#PWR0196")
+					(reference "#PWR0211")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "#PWR0262")
+					(reference "#PWR0325")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "#PWR0240")
+					(reference "#PWR0287")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "#PWR0229")
+					(reference "#PWR0268")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "#PWR0218")
+					(reference "#PWR0249")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "#PWR0185")
+					(reference "#PWR0192")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "#PWR0207")
+					(reference "#PWR0230")
 					(unit 1)
 				)
 			)
@@ -5394,7 +5394,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4fed27b9-7a96-4d4e-8fec-d982fd69fa62")
-		(property "Reference" "C46"
+		(property "Reference" "C54"
 			(at 124.206 78.74 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5456,35 +5456,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "C100")
+					(reference "C156")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "C55")
+					(reference "C71")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "C109")
+					(reference "C173")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "C91")
+					(reference "C139")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "C82")
+					(reference "C122")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "C73")
+					(reference "C105")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "C46")
+					(reference "C54")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "C64")
+					(reference "C88")
 					(unit 1)
 				)
 			)
@@ -5502,7 +5502,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53b207d3-c9cd-4c11-b8e3-dc981696750c")
-		(property "Reference" "#PWR0473"
+		(property "Reference" "#PWR0189"
 			(at 68.58 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -5562,35 +5562,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "#PWR0479")
+					(reference "#PWR0303")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "#PWR0474")
+					(reference "#PWR0208")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "#PWR0480")
+					(reference "#PWR0322")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "#PWR0478")
+					(reference "#PWR0284")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "#PWR0477")
+					(reference "#PWR0265")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "#PWR0476")
+					(reference "#PWR0246")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "#PWR0473")
+					(reference "#PWR0189")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "#PWR0475")
+					(reference "#PWR0227")
 					(unit 1)
 				)
 			)
@@ -5608,7 +5608,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "55be1ec8-2acf-48f6-bc17-c5cf8bc84a4f")
-		(property "Reference" "#PWR0191"
+		(property "Reference" "#PWR0202"
 			(at 161.29 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -5668,35 +5668,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "#PWR0257")
+					(reference "#PWR0316")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "#PWR0202")
+					(reference "#PWR0221")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "#PWR0268")
+					(reference "#PWR0335")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "#PWR0246")
+					(reference "#PWR0297")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "#PWR0235")
+					(reference "#PWR0278")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "#PWR0224")
+					(reference "#PWR0259")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "#PWR0191")
+					(reference "#PWR0202")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "#PWR0213")
+					(reference "#PWR0240")
 					(unit 1)
 				)
 			)
@@ -5714,7 +5714,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "631ca665-6b39-422d-ba1c-63c6f45df385")
-		(property "Reference" "#PWR0457"
+		(property "Reference" "#PWR0191"
 			(at 88.9 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -5774,35 +5774,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "#PWR0463")
+					(reference "#PWR0305")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "#PWR0458")
+					(reference "#PWR0210")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "#PWR0464")
+					(reference "#PWR0324")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "#PWR0462")
+					(reference "#PWR0286")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "#PWR0461")
+					(reference "#PWR0267")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "#PWR0460")
+					(reference "#PWR0248")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "#PWR0457")
+					(reference "#PWR0191")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "#PWR0459")
+					(reference "#PWR0229")
 					(unit 1)
 				)
 			)
@@ -5819,7 +5819,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6971767f-3d2c-4ab7-985e-bdc181a6cf1c")
-		(property "Reference" "#PWR0192"
+		(property "Reference" "#PWR0203"
 			(at 181.61 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -5879,35 +5879,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "#PWR0258")
+					(reference "#PWR0317")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "#PWR0203")
+					(reference "#PWR0222")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "#PWR0269")
+					(reference "#PWR0336")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "#PWR0247")
+					(reference "#PWR0298")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "#PWR0236")
+					(reference "#PWR0279")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "#PWR0225")
+					(reference "#PWR0260")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "#PWR0192")
+					(reference "#PWR0203")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "#PWR0214")
+					(reference "#PWR0241")
 					(unit 1)
 				)
 			)
@@ -5925,7 +5925,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f0446f4-8064-42a8-a566-1499e783a190")
-		(property "Reference" "#PWR0193"
+		(property "Reference" "#PWR0204"
 			(at 191.77 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -5985,35 +5985,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "#PWR0259")
+					(reference "#PWR0318")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "#PWR0204")
+					(reference "#PWR0223")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "#PWR0270")
+					(reference "#PWR0337")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "#PWR0248")
+					(reference "#PWR0299")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "#PWR0237")
+					(reference "#PWR0280")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "#PWR0226")
+					(reference "#PWR0261")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "#PWR0193")
+					(reference "#PWR0204")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "#PWR0215")
+					(reference "#PWR0242")
 					(unit 1)
 				)
 			)
@@ -6031,7 +6031,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "880a6c48-4dcc-4875-9023-9d5bb259519a")
-		(property "Reference" "C282"
+		(property "Reference" "C45"
 			(at 81.28 107.9562 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6095,35 +6095,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "C306")
+					(reference "C147")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "C286")
+					(reference "C62")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "C310")
+					(reference "C164")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "C302")
+					(reference "C130")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "C298")
+					(reference "C113")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "C294")
+					(reference "C96")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "C282")
+					(reference "C45")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "C290")
+					(reference "C79")
 					(unit 1)
 				)
 			)
@@ -6141,7 +6141,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "91679224-8eae-483c-9b43-8df1c8d5a2f9")
-		(property "Reference" "C265"
+		(property "Reference" "C55"
 			(at 132.08 107.9562 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6205,35 +6205,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "C277")
+					(reference "C157")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "C267")
+					(reference "C72")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "C279")
+					(reference "C174")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "C275")
+					(reference "C140")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "C273")
+					(reference "C123")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "C271")
+					(reference "C106")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "C265")
+					(reference "C55")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "C269")
+					(reference "C89")
 					(unit 1)
 				)
 			)
@@ -6251,7 +6251,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "937b83e7-4a8b-4c22-90c3-86fab4b79f15")
-		(property "Reference" "C256"
+		(property "Reference" "C50"
 			(at 111.76 107.9562 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6315,35 +6315,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "C262")
+					(reference "C152")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "C257")
+					(reference "C67")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "C263")
+					(reference "C169")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "C261")
+					(reference "C135")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "C260")
+					(reference "C118")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "C259")
+					(reference "C101")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "C256")
+					(reference "C50")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "C258")
+					(reference "C84")
 					(unit 1)
 				)
 			)
@@ -6361,7 +6361,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d270346-01fc-42c9-aca9-e1856b27bf81")
-		(property "Reference" "C280"
+		(property "Reference" "C43"
 			(at 60.96 107.9562 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6425,35 +6425,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "C304")
+					(reference "C145")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "C284")
+					(reference "C60")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "C308")
+					(reference "C162")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "C300")
+					(reference "C128")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "C296")
+					(reference "C111")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "C292")
+					(reference "C94")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "C280")
+					(reference "C43")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "C288")
+					(reference "C77")
 					(unit 1)
 				)
 			)
@@ -6471,7 +6471,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9dd2243a-012b-4cde-af93-7cd1873f56e1")
-		(property "Reference" "C248"
+		(property "Reference" "C47"
 			(at 101.6 107.9562 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6535,35 +6535,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "C254")
+					(reference "C149")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "C249")
+					(reference "C64")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "C255")
+					(reference "C166")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "C253")
+					(reference "C132")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "C252")
+					(reference "C115")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "C251")
+					(reference "C98")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "C248")
+					(reference "C47")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "C250")
+					(reference "C81")
 					(unit 1)
 				)
 			)
@@ -6580,7 +6580,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9e29f9c8-e99d-4c43-9334-dcee4968012d")
-		(property "Reference" "C50"
+		(property "Reference" "C59"
 			(at 195.58 93.98 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6642,35 +6642,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "C104")
+					(reference "C161")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "C59")
+					(reference "C76")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "C113")
+					(reference "C178")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "C95")
+					(reference "C144")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "C86")
+					(reference "C127")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "C77")
+					(reference "C110")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "C50")
+					(reference "C59")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "C68")
+					(reference "C93")
 					(unit 1)
 				)
 			)
@@ -6688,7 +6688,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a7c6fde2-0c6e-410d-9a0e-cab5b85027f4")
-		(property "Reference" "#PWR0449"
+		(property "Reference" "#PWR0193"
 			(at 99.06 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -6748,35 +6748,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "#PWR0455")
+					(reference "#PWR0307")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "#PWR0450")
+					(reference "#PWR0212")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "#PWR0456")
+					(reference "#PWR0326")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "#PWR0454")
+					(reference "#PWR0288")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "#PWR0453")
+					(reference "#PWR0269")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "#PWR0452")
+					(reference "#PWR0250")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "#PWR0449")
+					(reference "#PWR0193")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "#PWR0451")
+					(reference "#PWR0231")
 					(unit 1)
 				)
 			)
@@ -6793,7 +6793,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a85c4310-c0da-4e86-8d46-3b5a8a624925")
-		(property "Reference" "C48"
+		(property "Reference" "C57"
 			(at 195.58 72.898 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6855,35 +6855,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "C102")
+					(reference "C159")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "C57")
+					(reference "C74")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "C111")
+					(reference "C176")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "C93")
+					(reference "C142")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "C84")
+					(reference "C125")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "C75")
+					(reference "C108")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "C48")
+					(reference "C57")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "C66")
+					(reference "C91")
 					(unit 1)
 				)
 			)
@@ -6901,7 +6901,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b1f6cfad-90f8-4b26-87ca-5f4cce1febef")
-		(property "Reference" "#PWR0465"
+		(property "Reference" "#PWR0190"
 			(at 78.74 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -6961,35 +6961,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "#PWR0471")
+					(reference "#PWR0304")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "#PWR0466")
+					(reference "#PWR0209")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "#PWR0472")
+					(reference "#PWR0323")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "#PWR0470")
+					(reference "#PWR0285")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "#PWR0469")
+					(reference "#PWR0266")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "#PWR0468")
+					(reference "#PWR0247")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "#PWR0465")
+					(reference "#PWR0190")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "#PWR0467")
+					(reference "#PWR0228")
 					(unit 1)
 				)
 			)
@@ -7006,7 +7006,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b425797b-020c-4115-ad66-59227de03678")
-		(property "Reference" "#PWR0190"
+		(property "Reference" "#PWR0201"
 			(at 154.94 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -7066,35 +7066,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "#PWR0256")
+					(reference "#PWR0315")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "#PWR0201")
+					(reference "#PWR0220")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "#PWR0267")
+					(reference "#PWR0334")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "#PWR0245")
+					(reference "#PWR0296")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "#PWR0234")
+					(reference "#PWR0277")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "#PWR0223")
+					(reference "#PWR0258")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "#PWR0190")
+					(reference "#PWR0201")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "#PWR0212")
+					(reference "#PWR0239")
 					(unit 1)
 				)
 			)
@@ -7111,7 +7111,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c23837b8-ed7a-490c-87c3-7d66420885b7")
-		(property "Reference" "C45"
+		(property "Reference" "C52"
 			(at 113.03 81.28 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7173,35 +7173,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "C99")
+					(reference "C154")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "C54")
+					(reference "C69")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "C108")
+					(reference "C171")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "C90")
+					(reference "C137")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "C81")
+					(reference "C120")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "C72")
+					(reference "C103")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "C45")
+					(reference "C52")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "C63")
+					(reference "C86")
 					(unit 1)
 				)
 			)
@@ -7219,7 +7219,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5004c77-7a6b-4735-a3d7-0400331b6d90")
-		(property "Reference" "C283"
+		(property "Reference" "C46"
 			(at 91.44 107.9562 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7283,35 +7283,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "C307")
+					(reference "C148")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "C287")
+					(reference "C63")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "C311")
+					(reference "C165")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "C303")
+					(reference "C131")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "C299")
+					(reference "C114")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "C295")
+					(reference "C97")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "C283")
+					(reference "C46")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "C291")
+					(reference "C80")
 					(unit 1)
 				)
 			)
@@ -7328,7 +7328,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "caf58109-c0a3-44e4-8ab9-63b76adc9d12")
-		(property "Reference" "C49"
+		(property "Reference" "C58"
 			(at 194.564 87.376 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7390,35 +7390,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "C103")
+					(reference "C160")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "C58")
+					(reference "C75")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "C112")
+					(reference "C177")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "C94")
+					(reference "C143")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "C85")
+					(reference "C126")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "C76")
+					(reference "C109")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "C49")
+					(reference "C58")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "C67")
+					(reference "C92")
 					(unit 1)
 				)
 			)
@@ -7615,7 +7615,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d718939f-f189-4cd1-b76e-8b505ac46690")
-		(property "Reference" "#PWR0194"
+		(property "Reference" "#PWR0205"
 			(at 199.39 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -7675,35 +7675,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "#PWR0260")
+					(reference "#PWR0319")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "#PWR0205")
+					(reference "#PWR0224")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "#PWR0271")
+					(reference "#PWR0338")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "#PWR0249")
+					(reference "#PWR0300")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "#PWR0238")
+					(reference "#PWR0281")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "#PWR0227")
+					(reference "#PWR0262")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "#PWR0194")
+					(reference "#PWR0205")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "#PWR0216")
+					(reference "#PWR0243")
 					(unit 1)
 				)
 			)
@@ -7721,7 +7721,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d749664f-3113-48e6-8621-4c09f478ba6b")
-		(property "Reference" "C281"
+		(property "Reference" "C44"
 			(at 71.12 107.9562 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7785,35 +7785,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "C305")
+					(reference "C146")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "C285")
+					(reference "C61")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "C309")
+					(reference "C163")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "C301")
+					(reference "C129")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "C297")
+					(reference "C112")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "C293")
+					(reference "C95")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "C281")
+					(reference "C44")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "C289")
+					(reference "C78")
 					(unit 1)
 				)
 			)
@@ -7831,7 +7831,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d9b79d1e-195a-473c-9e1d-082cdb83bf4b")
-		(property "Reference" "#PWR0433"
+		(property "Reference" "#PWR0197"
 			(at 119.38 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -7891,35 +7891,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "#PWR0439")
+					(reference "#PWR0311")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "#PWR0434")
+					(reference "#PWR0216")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "#PWR0440")
+					(reference "#PWR0330")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "#PWR0438")
+					(reference "#PWR0292")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "#PWR0437")
+					(reference "#PWR0273")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "#PWR0436")
+					(reference "#PWR0254")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "#PWR0433")
+					(reference "#PWR0197")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "#PWR0435")
+					(reference "#PWR0235")
 					(unit 1)
 				)
 			)
@@ -7937,7 +7937,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df0099af-72c6-47da-b4af-b00b46a344e4")
-		(property "Reference" "#PWR0187"
+		(property "Reference" "#PWR0196"
 			(at 119.38 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -7997,35 +7997,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "#PWR0253")
+					(reference "#PWR0310")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "#PWR0198")
+					(reference "#PWR0215")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "#PWR0264")
+					(reference "#PWR0329")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "#PWR0242")
+					(reference "#PWR0291")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "#PWR0231")
+					(reference "#PWR0272")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "#PWR0220")
+					(reference "#PWR0253")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "#PWR0187")
+					(reference "#PWR0196")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "#PWR0209")
+					(reference "#PWR0234")
 					(unit 1)
 				)
 			)
@@ -8042,7 +8042,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e7f1beb0-d27b-44e2-84d3-044446c8ef63")
-		(property "Reference" "#PWR0186"
+		(property "Reference" "#PWR0194"
 			(at 109.22 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -8102,35 +8102,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "#PWR0252")
+					(reference "#PWR0308")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "#PWR0197")
+					(reference "#PWR0213")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "#PWR0263")
+					(reference "#PWR0327")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "#PWR0241")
+					(reference "#PWR0289")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "#PWR0230")
+					(reference "#PWR0270")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "#PWR0219")
+					(reference "#PWR0251")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "#PWR0186")
+					(reference "#PWR0194")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "#PWR0208")
+					(reference "#PWR0232")
 					(unit 1)
 				)
 			)
@@ -8148,7 +8148,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "efe82589-150a-4665-8ba1-7c8f17209da2")
-		(property "Reference" "#PWR0188"
+		(property "Reference" "#PWR0199"
 			(at 135.89 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -8208,35 +8208,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "#PWR0254")
+					(reference "#PWR0313")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "#PWR0199")
+					(reference "#PWR0218")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "#PWR0265")
+					(reference "#PWR0332")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "#PWR0243")
+					(reference "#PWR0294")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "#PWR0232")
+					(reference "#PWR0275")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "#PWR0221")
+					(reference "#PWR0256")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "#PWR0188")
+					(reference "#PWR0199")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "#PWR0210")
+					(reference "#PWR0237")
 					(unit 1)
 				)
 			)
@@ -8253,7 +8253,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f807d7e9-cfc6-4171-8c8a-d4095a8d5d28")
-		(property "Reference" "C43"
+		(property "Reference" "C49"
 			(at 100.33 78.74 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8315,35 +8315,35 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/0f644b26-ed5e-4c5b-bed7-4e48f361860f"
-					(reference "C97")
+					(reference "C151")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/23285419-b26e-4cdb-a2bb-e6cebda9c05d"
-					(reference "C52")
+					(reference "C66")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/367b25fc-947c-4939-be32-14c07e41263e"
-					(reference "C106")
+					(reference "C168")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5697fa62-fb2c-4f75-92ff-a050b3bc1b75"
-					(reference "C88")
+					(reference "C134")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/5a9c39d5-c19c-4592-ad6c-05909f6fa2ad"
-					(reference "C79")
+					(reference "C117")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/619344fe-335e-403c-8bb3-f2862ed3f5bf"
-					(reference "C70")
+					(reference "C100")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/97929314-a4ae-43d0-907d-b2028c8aaf99"
-					(reference "C43")
+					(reference "C49")
 					(unit 1)
 				)
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc/a38b87df-52c2-4000-9a44-d135d23d6f48"
-					(reference "C61")
+					(reference "C83")
 					(unit 1)
 				)
 			)

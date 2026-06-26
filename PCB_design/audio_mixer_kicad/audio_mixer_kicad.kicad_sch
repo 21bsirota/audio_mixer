@@ -334,6 +334,162 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:C_Small"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0.254 1.778 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C_Small"
+				(at 0.254 -2.032 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Unpolarized capacitor, small symbol"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "capacitor cap"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "C_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "C_Small_0_1"
+				(polyline
+					(pts
+						(xy -1.524 0.508) (xy 1.524 0.508)
+					)
+					(stroke
+						(width 0.3048)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.524 -0.508) (xy 1.524 -0.508)
+					)
+					(stroke
+						(width 0.3302)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "C_Small_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 2.032)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 2.032)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:D_Schottky_Small"
 			(pin_numbers
 				(hide yes)
@@ -3893,6 +4049,12 @@
 		(uuid "e98b8529-b913-4212-a528-9ce3dd9e3293")
 	)
 	(junction
+		(at 163.83 138.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "25633956-d02b-4554-8096-31f9ea1ba971")
+	)
+	(junction
 		(at 33.02 24.13)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3909,6 +4071,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "540953cd-51b0-45f2-be45-c53474916218")
+	)
+	(junction
+		(at 191.77 138.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "543085c1-ceb2-4365-9196-dbec534e31aa")
 	)
 	(junction
 		(at 95.25 31.75)
@@ -3939,6 +4107,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9e2de442-79b3-4481-aef0-a248048fb146")
+	)
+	(junction
+		(at 191.77 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a97e4ae6-55c0-456e-968f-5d20d44548e8")
 	)
 	(junction
 		(at 72.39 21.59)
@@ -4241,6 +4415,16 @@
 			(type default)
 		)
 		(uuid "08c91dda-560b-4590-8e53-2ab50f8030e4")
+	)
+	(wire
+		(pts
+			(xy 163.83 135.89) (xy 163.83 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "091def7c-74e4-40e4-8f99-39dcac666350")
 	)
 	(wire
 		(pts
@@ -4591,6 +4775,16 @@
 			(type default)
 		)
 		(uuid "1769c63c-48d1-4012-b374-51e66f99a5c2")
+	)
+	(wire
+		(pts
+			(xy 196.85 142.24) (xy 194.31 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "179058c4-f149-41fc-9902-54a577ec39bf")
 	)
 	(wire
 		(pts
@@ -5754,6 +5948,16 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 137.16) (xy 194.31 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45b9dcdf-03ab-4ef8-9124-7d667e4c732e")
+	)
+	(wire
+		(pts
 			(xy 0 256.54) (xy 11.43 256.54)
 		)
 		(stroke
@@ -6074,7 +6278,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 138.43) (xy 166.37 138.43)
+			(xy 148.59 138.43) (xy 163.83 138.43)
 		)
 		(stroke
 			(width 0)
@@ -7274,6 +7478,16 @@
 	)
 	(wire
 		(pts
+			(xy 194.31 138.43) (xy 191.77 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d43bb19-cce9-482f-b13d-fe0c3e0b79a5")
+	)
+	(wire
+		(pts
 			(xy 87.63 130.81) (xy 87.63 132.08)
 		)
 		(stroke
@@ -7835,6 +8049,16 @@
 	)
 	(wire
 		(pts
+			(xy 163.83 140.97) (xy 166.37 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93980437-5990-48ea-ae68-593b42f74e98")
+	)
+	(wire
+		(pts
 			(xy 48.26 236.22) (xy 59.69 236.22)
 		)
 		(stroke
@@ -7892,6 +8116,16 @@
 			(type default)
 		)
 		(uuid "95e91255-7add-47ec-8755-91395a648aba")
+	)
+	(wire
+		(pts
+			(xy 163.83 138.43) (xy 166.37 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "964ff7fa-c907-4e9a-a8c7-aee7d1cb8c6d")
 	)
 	(wire
 		(pts
@@ -8242,6 +8476,16 @@
 			(type default)
 		)
 		(uuid "a34dfb58-4d7c-4f37-b522-97101f2fe437")
+	)
+	(wire
+		(pts
+			(xy 163.83 129.54) (xy 163.83 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3de2fbf-0e21-421c-8c3f-7c8d790d5c92")
 	)
 	(wire
 		(pts
@@ -9365,6 +9609,16 @@
 	)
 	(wire
 		(pts
+			(xy 194.31 137.16) (xy 194.31 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cab80e8d-7d71-48f0-b955-656386756c63")
+	)
+	(wire
+		(pts
 			(xy -46.99 224.79) (xy -35.56 224.79)
 		)
 		(stroke
@@ -9875,6 +10129,16 @@
 	)
 	(wire
 		(pts
+			(xy 194.31 142.24) (xy 194.31 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1b8d994-a3d5-4ae4-a669-72613cba5d6b")
+	)
+	(wire
+		(pts
 			(xy 105.41 229.87) (xy 107.95 229.87)
 		)
 		(stroke
@@ -9882,6 +10146,16 @@
 			(type default)
 		)
 		(uuid "e1baacc0-716b-4875-8c76-d3b0555ca465")
+	)
+	(wire
+		(pts
+			(xy 194.31 140.97) (xy 191.77 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1bf94c5-cd96-4acb-8963-2174025b01c6")
 	)
 	(wire
 		(pts
@@ -10055,7 +10329,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 140.97) (xy 166.37 140.97)
+			(xy 148.59 140.97) (xy 158.75 140.97)
 		)
 		(stroke
 			(width 0)
@@ -12754,7 +13028,7 @@
 		(uuid "8d8acefd-1674-4e1a-bc03-f23cce105bbc")
 	)
 	(label "OSC_CLK"
-		(at 152.4 140.97 0)
+		(at 148.59 140.97 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13984,7 +14258,7 @@
 		(uuid "dd8adfa2-86b0-4227-b85d-db356e8d4bfd")
 	)
 	(label "CLK_STANDBY"
-		(at 152.4 138.43 0)
+		(at 148.59 138.43 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15302,7 +15576,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0bd0e639-c944-4ae0-8496-b11e61d88bc5")
-		(property "Reference" "#PWR0114"
+		(property "Reference" "#PWR0117"
 			(at 355.6 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -15362,7 +15636,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR0114")
+					(reference "#PWR0117")
 					(unit 1)
 				)
 			)
@@ -16242,7 +16516,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1b183568-eecc-4ddb-bcd3-0395911573e1")
-		(property "Reference" "#PWR0101"
+		(property "Reference" "#PWR0104"
 			(at 289.56 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -16302,7 +16576,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR0101")
+					(reference "#PWR0104")
 					(unit 1)
 				)
 			)
@@ -16320,7 +16594,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1b6833a4-c183-4cc4-81b3-699a8b5907f3")
-		(property "Reference" "#PWR0110"
+		(property "Reference" "#PWR0113"
 			(at 334.01 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -16380,7 +16654,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR0110")
+					(reference "#PWR0113")
 					(unit 1)
 				)
 			)
@@ -16783,10 +17057,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "226959ef-4697-41c7-bb15-0816e85c94b5")
 		(property "Reference" "Y1"
-			(at 178.435 132.08 0)
+			(at 179.07 133.35 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16796,7 +17069,7 @@
 			)
 		)
 		(property "Value" "24.576M"
-			(at 178.435 134.62 0)
+			(at 179.07 135.89 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16948,7 +17221,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "22f32e9e-ee61-4f09-a98f-3517d62b52fe")
-		(property "Reference" "#PWR0116"
+		(property "Reference" "#PWR0119"
 			(at 355.6 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -17008,7 +17281,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR0116")
+					(reference "#PWR0119")
 					(unit 1)
 				)
 			)
@@ -17567,7 +17840,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2f6a969d-1caf-468e-afea-4f4c01f8f549")
-		(property "Reference" "#PWR0102"
+		(property "Reference" "#PWR0105"
 			(at 303.53 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -17628,7 +17901,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR0102")
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -18173,7 +18446,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "35213148-67d5-4b7b-9e6c-84270d9cc586")
-		(property "Reference" "#PWR091"
+		(property "Reference" "#PWR094"
 			(at 193.04 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -18233,7 +18506,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR091")
+					(reference "#PWR094")
 					(unit 1)
 				)
 			)
@@ -19292,7 +19565,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "49bf970b-520e-4de2-9e7d-927543df33e7")
-		(property "Reference" "#PWR094"
+		(property "Reference" "#PWR097"
 			(at 265.43 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -19352,7 +19625,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR094")
+					(reference "#PWR097")
 					(unit 1)
 				)
 			)
@@ -19448,7 +19721,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ae947d8-23d8-4f42-8440-16974cb6d04c")
-		(property "Reference" "J34"
+		(property "Reference" "J35"
 			(at 365.76 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19515,7 +19788,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "J34")
+					(reference "J35")
 					(unit 1)
 				)
 			)
@@ -20094,7 +20367,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5449d89d-e030-43dc-87dd-c6f11176cfef")
-		(property "Reference" "J33"
+		(property "Reference" "J34"
 			(at 365.76 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20161,7 +20434,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "J33")
+					(reference "J34")
 					(unit 1)
 				)
 			)
@@ -20256,7 +20529,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5a741a4a-a39b-4957-8391-0aa2d22d565f")
-		(property "Reference" "#PWR095"
+		(property "Reference" "#PWR098"
 			(at 265.43 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -20316,7 +20589,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR095")
+					(reference "#PWR098")
 					(unit 1)
 				)
 			)
@@ -20642,7 +20915,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5dc7b7df-abc9-4822-bcec-37ecc6ffaf5a")
-		(property "Reference" "R5"
+		(property "Reference" "R7"
 			(at 260.096 90.17 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20706,7 +20979,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "R5")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -20957,7 +21230,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5efe12ee-d81f-42a0-9add-931bad8ce0f9")
-		(property "Reference" "J35"
+		(property "Reference" "J36"
 			(at 365.76 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21024,7 +21297,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "J35")
+					(reference "J36")
 					(unit 1)
 				)
 			)
@@ -21433,7 +21706,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6373f261-4ffa-4bb7-90c0-4eb375b66c27")
-		(property "Reference" "#PWR0100"
+		(property "Reference" "#PWR0103"
 			(at 289.56 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -21493,7 +21766,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR0100")
+					(reference "#PWR0103")
 					(unit 1)
 				)
 			)
@@ -21510,7 +21783,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "63961680-87ba-4dbe-8744-09eafaca6efe")
-		(property "Reference" "#PWR0489"
+		(property "Reference" "#PWR093"
 			(at 191.77 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -21570,7 +21843,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR0489")
+					(reference "#PWR093")
 					(unit 1)
 				)
 			)
@@ -22036,6 +22309,83 @@
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
 					(reference "TP36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 163.83 129.54 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "67302931-2c78-4769-9cd7-a186327a708f")
+		(property "Reference" "#PWR091"
+			(at 163.83 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 163.83 125.984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 163.83 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 163.83 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 163.83 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6b9c17d5-2ae5-4898-b2b5-6917ae0b4591")
+		)
+		(instances
+			(project "audio_mixer_kicad"
+				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
+					(reference "#PWR091")
 					(unit 1)
 				)
 			)
@@ -22593,7 +22943,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6ab7f956-2b20-4771-b831-040ebf2461f8")
-		(property "Reference" "J37"
+		(property "Reference" "J33"
 			(at 20.32 18.796 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22656,7 +23006,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "J37")
+					(reference "J33")
 					(unit 1)
 				)
 			)
@@ -23319,7 +23669,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "71713383-bbea-4c48-9209-872d0466548c")
-		(property "Reference" "#PWR0107"
+		(property "Reference" "#PWR0110"
 			(at 314.96 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -23379,7 +23729,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR0107")
+					(reference "#PWR0110")
 					(unit 1)
 				)
 			)
@@ -23473,7 +23823,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7395a82c-6148-47db-bd67-509b522b7c23")
-		(property "Reference" "#PWR097"
+		(property "Reference" "#PWR0100"
 			(at 278.13 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -23533,7 +23883,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR097")
+					(reference "#PWR0100")
 					(unit 1)
 				)
 			)
@@ -23941,7 +24291,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7754f9ae-73b7-4ad2-9386-1409247d8b0e")
-		(property "Reference" "#PWR0113"
+		(property "Reference" "#PWR0116"
 			(at 334.01 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -24001,7 +24351,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR0113")
+					(reference "#PWR0116")
 					(unit 1)
 				)
 			)
@@ -25289,7 +25639,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8e78643a-7442-413c-9fa1-13e522c8339f")
-		(property "Reference" "#PWR092"
+		(property "Reference" "#PWR095"
 			(at 224.79 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -25349,7 +25699,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR092")
+					(reference "#PWR095")
 					(unit 1)
 				)
 			)
@@ -25367,7 +25717,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8fcf5934-0c90-47bf-81b2-b86f311a36c5")
-		(property "Reference" "#PWR0112"
+		(property "Reference" "#PWR0115"
 			(at 334.01 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -25427,7 +25777,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR0112")
+					(reference "#PWR0115")
 					(unit 1)
 				)
 			)
@@ -25840,7 +26190,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9322ab76-b66c-4ab2-8267-dab092948d0b")
-		(property "Reference" "#PWR098"
+		(property "Reference" "#PWR0101"
 			(at 285.75 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -25900,7 +26250,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR098")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -26631,7 +26981,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a041b4f9-4282-4d7a-8479-49fb43d67dd4")
-		(property "Reference" "#PWR0115"
+		(property "Reference" "#PWR0118"
 			(at 355.6 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -26691,7 +27041,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR0115")
+					(reference "#PWR0118")
 					(unit 1)
 				)
 			)
@@ -27110,7 +27460,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a33a28c9-a843-4e3a-a71c-7234d6807442")
-		(property "Reference" "#PWR093"
+		(property "Reference" "#PWR096"
 			(at 232.41 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -27170,7 +27520,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR093")
+					(reference "#PWR096")
 					(unit 1)
 				)
 			)
@@ -27506,7 +27856,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a7bf79a2-0d6a-4252-8f8d-a5e71e981535")
-		(property "Reference" "#PWR0103"
+		(property "Reference" "#PWR0106"
 			(at 303.53 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -27567,7 +27917,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR0103")
+					(reference "#PWR0106")
 					(unit 1)
 				)
 			)
@@ -27740,7 +28090,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a9bb271b-7e56-4c0c-bef0-c14a12026210")
-		(property "Reference" "#PWR0109"
+		(property "Reference" "#PWR0112"
 			(at 314.96 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -27800,7 +28150,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR0109")
+					(reference "#PWR0112")
 					(unit 1)
 				)
 			)
@@ -27818,7 +28168,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a9d371ed-9e3c-4d7c-a90a-b952ec058e8e")
-		(property "Reference" "#PWR0111"
+		(property "Reference" "#PWR0114"
 			(at 334.01 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -27878,7 +28228,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR0111")
+					(reference "#PWR0114")
 					(unit 1)
 				)
 			)
@@ -27897,7 +28247,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac3d7cfe-2548-4468-89fb-616aab4eed54")
-		(property "Reference" "J36"
+		(property "Reference" "J37"
 			(at 365.76 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27964,7 +28314,86 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "J36")
+					(reference "J37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 161.29 140.97 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ad678ced-f6ad-47d3-b086-32d3a1c15027")
+		(property "Reference" "R5"
+			(at 161.29 145.542 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "22"
+			(at 161.29 143.51 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 161.29 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.29 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 161.29 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "e386f8b1-311c-44bf-89bb-c6cae9bef5ff")
+		)
+		(pin "1"
+			(uuid "8a0dcb94-0e1d-49aa-9678-3da657769835")
+		)
+		(instances
+			(project "audio_mixer_kicad"
+				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -28059,7 +28488,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ae047ce9-019c-45af-a430-b98351db9d83")
-		(property "Reference" "#PWR0105"
+		(property "Reference" "#PWR0108"
 			(at 303.53 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -28120,7 +28549,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR0105")
+					(reference "#PWR0108")
 					(unit 1)
 				)
 			)
@@ -28214,7 +28643,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "af5984d3-7bec-450e-abfa-f3aa37ccb4bb")
-		(property "Reference" "#PWR099"
+		(property "Reference" "#PWR0102"
 			(at 285.75 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -28274,7 +28703,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR099")
+					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -28639,7 +29068,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b62bf85c-c8de-415a-ac5b-05538fb652b0")
-		(property "Reference" "#PWR0490"
+		(property "Reference" "#PWR092"
 			(at 191.77 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -28699,7 +29128,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR0490")
+					(reference "#PWR092")
 					(unit 1)
 				)
 			)
@@ -28793,7 +29222,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b7642f08-5dd8-4a01-b894-ff8de1d85dce")
-		(property "Reference" "R6"
+		(property "Reference" "R8"
 			(at 260.096 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28857,7 +29286,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "R6")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -28875,7 +29304,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b878f0fa-d7b1-4fff-a409-645e0855117c")
-		(property "Reference" "#PWR0117"
+		(property "Reference" "#PWR0120"
 			(at 355.6 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -28935,7 +29364,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR0117")
+					(reference "#PWR0120")
 					(unit 1)
 				)
 			)
@@ -29594,7 +30023,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c237b86b-527c-4a85-a6f1-e767b7b57827")
-		(property "Reference" "#PWR0104"
+		(property "Reference" "#PWR0107"
 			(at 303.53 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -29655,7 +30084,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR0104")
+					(reference "#PWR0107")
 					(unit 1)
 				)
 			)
@@ -31074,6 +31503,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 196.85 139.7 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "debbeea9-261b-4eca-a935-6de93e553348")
+		(property "Reference" "C1"
+			(at 199.39 138.4362 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1u"
+			(at 199.39 140.9762 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 196.85 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 196.85 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3c1c7cd9-0f35-421e-93e5-25e679a1d7a9")
+		)
+		(pin "1"
+			(uuid "332cbbd0-c02f-4b78-83de-830664fe44d9")
+		)
+		(instances
+			(project "audio_mixer_kicad"
+				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at -85.09 68.58 0)
 		(unit 1)
@@ -31470,7 +31981,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e5e12488-a307-47ec-811e-0fcf21a62475")
-		(property "Reference" "#PWR0108"
+		(property "Reference" "#PWR0111"
 			(at 314.96 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -31530,7 +32041,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR0108")
+					(reference "#PWR0111")
 					(unit 1)
 				)
 			)
@@ -32089,6 +32600,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 163.83 133.35 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ec03b57c-179d-4c62-9e0f-44de62c00d7d")
+		(property "Reference" "R6"
+			(at 166.37 132.0799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 166.37 134.6199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 163.83 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 163.83 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 163.83 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "aed52560-dd57-4115-9a83-17139f26e6e5")
+		)
+		(pin "2"
+			(uuid "3c8de22a-34a6-44ef-8a29-5a0cfb5709cb")
+		)
+		(instances
+			(project "audio_mixer_kicad"
+				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3VA")
 		(at 95.25 93.98 0)
 		(unit 1)
@@ -32333,7 +32926,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f0c0409c-924d-4952-9fe5-7161aeaa422b")
-		(property "Reference" "#PWR0106"
+		(property "Reference" "#PWR0109"
 			(at 314.96 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -32393,7 +32986,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR0106")
+					(reference "#PWR0109")
 					(unit 1)
 				)
 			)
@@ -32658,7 +33251,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f3a7b7fc-de1b-4fd3-a2e2-be70c80bd7d7")
-		(property "Reference" "#PWR096"
+		(property "Reference" "#PWR099"
 			(at 278.13 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -32718,7 +33311,7 @@
 		(instances
 			(project "audio_mixer_kicad"
 				(path "/1414c075-e26f-48ed-bedb-d23839dccdcc"
-					(reference "#PWR096")
+					(reference "#PWR099")
 					(unit 1)
 				)
 			)
