@@ -11057,6 +11057,16 @@
 		)
 		(uuid "049bdebc-d3ee-457e-a6d5-f0696c03ece6")
 	)
+	(label "I2C0_SCL"
+		(at 153.67 100.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "06956a09-1537-4362-99e7-b389d4c8c1e9")
+	)
 	(label "FSYNC"
 		(at 107.95 99.06 0)
 		(effects
@@ -11107,6 +11117,16 @@
 		)
 		(uuid "09856cb3-dd09-4f67-8444-55751246c3f6")
 	)
+	(label "I2C0_SDA"
+		(at 153.67 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "09adfe31-ffb6-4158-a8ea-6945eb24ae53")
+	)
 	(label "CH29_ADC-"
 		(at 66.04 321.31 0)
 		(effects
@@ -11146,6 +11166,16 @@
 			(justify right bottom)
 		)
 		(uuid "0bee0d21-355b-49b9-9949-1f8e7a865a90")
+	)
+	(label "I2C1_SCL"
+		(at 153.67 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0c09fc5e-466c-452a-8f24-509bd47fad0d")
 	)
 	(label "CH30_XLR+"
 		(at 0 251.46 0)
@@ -11636,6 +11666,16 @@
 			(justify right bottom)
 		)
 		(uuid "32a1969f-bb6c-4866-8d5d-78b7c3999105")
+	)
+	(label "I2C1_SDA"
+		(at 153.67 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "32e23f7c-2fd1-44fe-8f55-00a062056697")
 	)
 	(label "MCLK"
 		(at 257.81 107.95 0)
