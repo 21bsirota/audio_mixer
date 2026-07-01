@@ -17,11 +17,11 @@ module spi_tb();
     // DUT Instantiation
     audio_mixer dut (
         .sysclk(sysclk),
-        .rst_n(rst_n),
-        .spi_clk(spi_clk),
-        .spi_cs_n(spi_cs_n),
-        .spi_mosi(spi_mosi),
-        .spi_miso(spi_miso)
+        .RST_N(rst_n),
+        .SCK(spi_clk),
+        .FPGA_CS(spi_cs_n),
+        .MOSI(spi_mosi),
+        .MISO(spi_miso)
     );
 
     // ---------------------------------------------------------

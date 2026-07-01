@@ -1,0 +1,30 @@
+# Ignore Vivado project files and build directories
+project_files/
+*.xpr
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.hbs
+
+# Ignore Log and Journal files
+*.jou
+*.log
+*.str
+*.pb
+*.wdf
+
+# Ignore Checkpoints and Bitstreams
+*.dcp
+*.bit
+*.bin
+
+# Exceptions: Ensure source files are explicitly tracked
+!*.xci
+!*.bd
+!*.v
+!*.sv
+!*.vhd
+!*.xdc
+!rebuild.tcl

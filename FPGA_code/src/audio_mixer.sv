@@ -2,16 +2,42 @@
 
 module audio_mixer (
     input  logic sysclk, // 12 MHz
-    input  logic rst_n,
+    input  logic RST_N,
 
-    // SPI from ESP32 -> FPGA
-    input  logic spi_clk,
-    input  logic spi_cs_n,
-    input  logic spi_mosi,
-    output logic spi_miso,
+    input  logic SCK,
+    input  logic FPGA_CS,
+    input  logic MOSI,
+    output logic MISO,
 
-    output logic bclk_external,
-    output logic mclk_external
+    output logic CLK_STANDBY,
+    input  logic OSC_CLK,
+
+    output logic MCLK,
+    output logic FSYNC,
+    output logic BCLK,
+
+    input  logic TX,
+    output logic RX,
+
+    inout  logic I2C0_SCL,
+    inout  logic I2C0_SDA,
+    inout  logic I2C1_SCL,
+    inout  logic I2C1_SDA,
+
+    input  logic SDOUT0,
+    input  logic SDOUT1,
+    input  logic SDOUT2,
+    input  logic SDOUT3,
+    input  logic SDOUT4,
+    input  logic SDOUT5,
+    input  logic SDOUT6,
+    input  logic SDOUT7,
+
+    output logic DIN0,
+    output logic DIN1,
+
+    output logic A_PWRGATE,
+    output logic A_PWRGATE2
 );
 
     logic internal_miso, miso_enable;
@@ -32,11 +58,11 @@ module audio_mixer (
 
     spi_interface spi (
         .sysclk          (sysclk),
-        .rst_n           (rst_n),
+        .rst_n           (RST_N),
 
-        .cs_n            (spi_cs_n),
-        .sclk            (spi_clk),
-        .mosi            (spi_mosi),
+        .cs_n            (FPGA_CS),
+        .sclk            (SCK),
+        .mosi            (MOSI),
         .miso            (internal_miso),
         .miso_en         (miso_enable),
 
@@ -60,16 +86,16 @@ module audio_mixer (
 
     tdm_audio_pipeline tdm_dsp (
         .sysclk    (sysclk),
-        .rst_n     (rst_n),
+        .rst_n     (RST_N),
         .bram_addr (tdm_bram_addr),
         .bram_data (bram_tdm_data)
     );
 
-    assign spi_miso = (miso_enable) ? internal_miso : 1'bz;
+    assign MISO = (miso_enable) ? internal_miso : 1'bz;
 
     // Create TDM Clocks
     audio_clock_wizard audio_clocks (
-        .resetn(rst_n),
+        .resetn(RST_N),
         .clk_in1(sysclk),
         
         .clk_out1(clk_mclk),
@@ -78,22 +104,22 @@ module audio_mixer (
     );
 
     ODDR oddr_bclk (
-        .Q(bclk_external),
+        .Q(BCLK),
         .C(clk_bclk),
         .CE(1'b1),
         .D1(1'b1),
         .D2(1'b0),
-        .R(~rst_n),
+        .R(~RST_N),
         .S(1'b0)
     );
 
     ODDR oddr_mclk (
-        .Q(mclk_external),
+        .Q(MCLK),
         .C(clk_mclk),
         .CE(1'b1),
         .D1(1'b1),
         .D2(1'b0),
-        .R(~rst_n),
+        .R(~RST_N),
         .S(1'b0)
     );
 
