@@ -37,7 +37,12 @@ module audio_mixer (
     output logic DIN1,
 
     output logic A_PWRGATE,
-    output logic A_PWRGATE2
+    output logic A_PWRGATE2,
+
+    output logic led[1:0],
+    output logic led0_b,
+    output logic led0_g,
+    output logic led0_r
 );
 
     logic internal_miso, miso_enable;
